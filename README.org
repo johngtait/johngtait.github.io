@@ -1,0 +1,5 @@
+#+TITLE: John Tait's documentation projects
+#+AUTHOR: John Tait
+#+EMAIL: johngtait@gmail.com
+
+ - 2017 :: DocBook indexing fun project
