@@ -1,5 +1,12 @@
-#+TITLE: John Tait's documentation projects
+#+TITLE: John Tait's DocBook project
 #+AUTHOR: John Tait
 #+EMAIL: johngtait@gmail.com
 
- - 2017 :: DocBook indexing fun project
+A fun indexing project using DocBook 5.2 to make the Richard Adams' epic lapine novel /Watership Down/ accessible:
+ - chapter *abstracts* to summarize the story
+ - a *glossary* to explain characters, places, lapine language terms, mythical aspects, and other concepts
+ - a detailed *index* with
+   - links to the chapter abstracts
+   - pages numbers of the print edition.
+
+This might be extended in the futurie to other fun novels like Frank Herberts /Dune/ etc.
