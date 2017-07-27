@@ -2,7 +2,7 @@
 #+AUTHOR: John Tait
 #+EMAIL: johngtait@gmail.com
 
-A fun indexing project using DocBook 5.2 to make the Richard Adams' epic lapine novel /Watership Down/ accessible:
+A fun indexing project using DocBook 5 to make the Richard Adams' epic lapine novel /Watership Down/ accessible:
  - a *glossary* to explain characters, places, lapine language terms, mythical aspects, internal stories, and other concepts
  - chapter *abstracts* to summarize the story, with links to the glossary
  - a detailed *index* with
