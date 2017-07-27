@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbookxi.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" xml:id="john">
+  <!-- ===================== INFO STARTS ====================== -->
+  
+  
+ <!--
+      _       _             _____     _ _   _                               
+     | | ___ | |__  _ __   |_   _|_ _(_) |_( )___                           
+  _  | |/ _ \| '_ \| '_ \    | |/ _` | | __|// __|                          
+ | |_| | (_) | | | | | | |   | | (_| | | |_  \__ \                          
+ _\___/ \___/|_| |_|_| |_|   |_|\__,_|_|\__| |___/____                      
+ \ \      / /_ _| |_ ___ _ __ ___| |__ (_)_ __   |  _ \  _____      ___ __  
+  \ \ /\ / / _` | __/ _ \ '__/ __| '_ \| | '_ \  | | | |/ _ \ \ /\ / / '_ \ 
+   \ V  V / (_| | ||  __/ |  \__ \ | | | | |_) | | |_| | (_) \ V  V /| | | |
+ __ \_/\_/_\__,_|\__\___|_|  |___/_| |_|_| .__/  |____/ \___/ \_/\_/ |_| |_|
+ \ \ / / __|                             |_|                                
+  \ V /\__ \                                                                
+  _\_/ |___/       ____              _                                      
+ |  _ \  ___   ___| __ )  ___   ___ | | __                                  
+ | | | |/ _ \ / __|  _ \ / _ \ / _ \| |/ /                                  
+ | |_| | (_) | (__| |_) | (_) | (_) |   <                                   
+ |____/ \___/ \___|____/ \___/_\___/|_|\_\                                  
+  _ __  _ __ ___ (_) ___  ___| |_                                           
+ | '_ \| '__/ _ \| |/ _ \/ __| __|                                          
+ | |_) | | | (_) | |  __/ (__| |_                                           
+ | .__/|_|  \___// |\___|\___|\__|                                          
+ |_|           |__/                
+
+  -->
+  
+  
+  
+  <!-- ===================== INFO STARTS ====================== -->
+
+  <info>
+
+    <!-- ===================== EPUB COVER ====================== -->
+
+    <cover>
+      <para role="tagline">Watership Down – A supplement</para>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="wd2.gif">
+            <info>
+              <author>
+                <personname><surname>Tait</surname><firstname>John</firstname></personname>
+              </author>
+            </info>
+          </imagedata>
+        </imageobject>
+      </mediaobject>
+    </cover>
+
+    <!-- ===================== ABSTRACT ====================== -->
+
+    <abstract>
+
+      <para> A pointless supplement to the classic rabbit epic <citetitle>Watership Down</citetitle> by
+          <personname>Richard Adams</personname>. It includes a full index, a glossary, and chapter
+        summaries.</para>
+      <para><citetitle>Watership Down</citetitle> is the best book in the whole world. It was the basis for a smash hit 1978 <link xlink:href="https://en.wikipedia.org/wiki/Watership_Down_%28film%29">film</link> of the same name. I'm still recovering from that experience, as we all are.</para>
+      <para>Comments welcome: <email>johngtait@gmail.com</email></para>
+    </abstract>
+
+
+    <!-- ===================== AUTHOR AND TITLE ====================== -->
+
+    <author>
+      <personname><firstname>John</firstname><surname>Tait</surname></personname>
+    </author>
+    <copyright>
+      <year>2017</year>
+      <holder>John Tait</holder>
+    </copyright>
+    <title>Watership Down – A supplement</title>
+
+    <!-- ===================== REVISION HISTORY ====================== -->
+
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>August 2017</date>
+        <author>
+          <personname><surname>Tait</surname><firstname>John</firstname></personname>
+        </author>
+        <revdescription>
+          <para>First go</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+
+    <!-- ===================== INFO ENDS ====================== -->
+
+  </info>
+
+  <!-- ===================== DEDICATION ====================== -->
+
+  <dedication>
+    <para>Thanks to <personname>Hagino</personname> XX.</para>
+    <mediaobject>
+
+      <imageobject>
+        <imagedata fileref="wd2.gif" align="center" width="8cm"/>
+      </imageobject>
+    </mediaobject>
+
+  </dedication>
+
+
+  <!-- ===================== GLOSSARY ====================== -->
+
+  <glossary xml:id="watership-down-glossary">
+    <title>Glossary of names, places, lapine words and other terms</title>
+    
+    
+    <glossentry>
+      <glossterm></glossterm>
+      <glossdef><para></para></glossdef>
+    </glossentry>
+    
+    <glossentry>
+      <glossterm>abc</glossterm>
+      <glossdef><para>test</para></glossdef>
+    </glossentry>
+    
+    <glossentry>
+      <glossterm><foreignphrase>hrududu</foreignphrase></glossterm>
+      <glossdef><para>car</para></glossdef>
+    </glossentry>
+    
+    <glossentry>
+      <glossterm><foreignphrase>Dea ex Machina</foreignphrase></glossterm>
+      <glossdef><para>goddess in the machine</para></glossdef>
+    </glossentry>
+    
+    <glossentry>
+      <glossterm>Kehaar</glossterm>
+      <glossdef><para>seagull</para></glossdef>
+    </glossentry>
+
+  </glossary>
+
+  <!-- ===================== INDEX ====================== -->
+
+  <index xml:id="watership-down-index">
+    <title>Index to the print version with links to the summaries here</title>
+    <para>Links to summaries here. Page numbers are from Puffin edition.</para>
+  </index>
+
+
+  <!-- ===================== CHAPTER SUMMARIES ====================== -->
+
+  <!-- ===================== PART ONE ====================== -->
+
+
+
+  <part xml:id="the-journey">
+
+    <info>
+      <title>THE JOURNEY <indexterm><primary><citetitle>The Journey (Part I)</citetitle></primary>
+          <secondary>3-100</secondary>
+        </indexterm>
+
+      </title>
+
+    </info>
+
+    <!-- ===================== PART ONE CHAPTERS ====================== -->
+    
+    <chapter xml:id="the-notice-board">
+      <info>
+        <title>The Notice Board<indexterm>
+            <primary><citetitle>The Notice Board (chapter)</citetitle></primary>
+            <secondary>7-10</secondary>
+          
+          </indexterm>
+          <indexterm><primary>Fiver</primary><secondary>vision, 20-24</secondary></indexterm>
+          <indexterm><primary>Fiver</primary><secondary>dream, 25-48</secondary></indexterm>
+        </title>
+      </info>
+      <para>This is paragraph not in an abstract. See <glossterm>abc</glossterm>. See
+            <glossterm><foreignphrase>hrududu</foreignphrase></glossterm>.</para>
+      <para><personname>Fiver</personname> has a bad dream</para>
+    </chapter>
+
+    <chapter xml:id="the-chief-rabbit">
+      <info>
+        <title>The Chief Rabbit<indexterm>
+            <primary><citetitle>The Chief Rabbit (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="hazels-decision">
+      <info>
+        <title>Hazel's Decision <indexterm>
+            <primary><citetitle>Hazel's Decision (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="the-departure">
+      <info>
+        <title>The Departure<indexterm>
+            <primary><citetitle>The Departure (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>Hi</para>
+
+    </chapter>
+
+    <chapter xml:id="into-the-woods">
+      <info>
+        <title>Into the Woods<indexterm>
+            <primary><citetitle>Into the Woods (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="the-story-of-el-ahrairah">
+      <info>
+        <title>The Story of the Blessing of El-ahrairah<indexterm>
+            <primary><citetitle>The Story of the Blessing of El-ahrairah
+              (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="the-lendri-and-the-river">
+      <info>
+        <title>The Lendri and the River<indexterm>
+            <primary><citetitle>The Lendri and the River (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="the-crossing">
+      <info>
+        <title>The Crossing<indexterm>
+            <primary><citetitle>The Crossing (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="the-crow-and-the-beanfield">
+      <info>
+        <title>The Crow and the Beanfield<indexterm>
+            <primary><citetitle>The Crow and the Beanfield (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="the-road-and-the-common">
+      <info>
+        <title>The Road and the Common<indexterm>
+            <primary><citetitle>The Road and the Common (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="hard-going">
+      <info>
+        <title>Hard Going<indexterm>
+            <primary><citetitle>Hard Going (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="the-stranger-in-the-field">
+      <info>
+        <title>The Stranger in the Field<indexterm>
+            <primary><citetitle>The Stranger in the Field (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="hospitality">
+      <info>
+        <title>Hospitality<indexterm>
+            <primary><citetitle>Hospitality (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="like-trees-in-november">
+      <info>
+        <title>'Like Trees in November'<indexterm>
+            <primary><citetitle>Like Trees in November (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="the-story-of-the-kings-lettuce">
+      <info>
+        <title>The Story of the King's Lettuce<indexterm>
+            <primary><citetitle>The Story of the King's Lettuce (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="silverweed">
+      <info>
+        <title>Silverweed<indexterm>
+            <primary><citetitle>Silverweed (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+    <chapter xml:id="the-shining-wire">
+      <info>
+        <title>The Shining Wire<indexterm>
+            <primary><citetitle>The Shining Wire (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+    </chapter>
+
+  </part>
+
+  <!-- ===================== PART TWO ====================== -->
+
+  <part xml:id="on-watership-down">
+    <info>
+      <title>ON WATERSHIP DOWN <indexterm><primary><citetitle>On Watership Down
+            (Part II)</citetitle></primary></indexterm></title>
+    </info>
+    
+    <!-- ===================== PART TWO CHAPTERS ====================== -->
+
+    <chapter xml:id="watership-down">
+      <info>
+        <title>Watership Down<indexterm>
+            <primary><citetitle>Watership Down (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="fear-in-the-dark">
+      <info>
+        <title>Fear in the Dark<indexterm>
+            <primary><citetitle>Fear in the Dark (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="a-honeycomb-and-a-mouse">
+      <info>
+        <title>A Honeycomb and a Mouse<indexterm>
+            <primary><citetitle>A Honeycomb and a Mouse (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="for-el-ahrairah-to-cry">
+      <info>
+        <title>'For El-ahrairah to Cry'<indexterm>
+            <primary><citetitle>For El-ahrairah to Cry (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>Another of...</para>
+    </chapter>
+
+    <chapter xml:id="the-story-of-the-trial-of-el-ahrairah">
+      <info>
+        <title>The Story of the Trial of El-ahrairah<indexterm>
+            <primary><citetitle>The Story of the Trial of El-ahrairah
+              (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE. </para>
+    </chapter>
+
+    <chapter xml:id="kehaar">
+      <info>
+        <title>Kehaar<indexterm>
+            <primary><citetitle>Kehaar (chapter)</citetitle></primary>
+          </indexterm>
+          <indexterm>
+            <primary>swearing</primary>
+            <secondary><quote>Piss off!</quote></secondary>
+            <tertiary>100</tertiary>
+          </indexterm>
+          <indexterm>
+            <primary><quote>Piss off!</quote></primary>
+            <secondary>100</secondary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para><glossterm>Kehaar</glossterm> says <quote>Piss off!</quote>.</para>
+    </chapter>
+
+    <chapter xml:id="nuthanger-farm">
+      <info>
+        <title>Nuthanger Farm<indexterm>
+            <primary><citetitle>Nuthanger Farm (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="the-raid">
+      <info>
+        <title>The Raid<indexterm>
+            <primary><citetitle>The Raid (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="fiver-beyond">
+      <info>
+        <title>Fiver Beyond<indexterm>
+            <primary><citetitle>Fiver Beyond (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="you-cant-imagine-it-unless-youve-been-there">
+      <info>
+        <title>'You Can't Imagine it Unless You've Been There'<indexterm>
+            <primary><citetitle>You Can't Imagine it Unless You've Been There
+              (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="at-the-foot-of-the-hill">
+      <info>
+        <title>At the Foot of the Hill<indexterm>
+            <primary><citetitle>At the Foot of the Hill (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="return-and-departure">
+      <info>
+        <title>Return and Departure<indexterm>
+            <primary><citetitle>Return and Departure (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+
+
+
+  </part>
+
+  <!-- ===================== PART THREE ====================== -->
+
+  <part xml:id="efrafa">
+    <info>
+      <title>EFRAFA <indexterm><primary><citetitle>Efrafa
+        (Part III)</citetitle></primary></indexterm></title>
+    </info>
+
+    <!-- ===================== PART THREE CHAPTERS ====================== -->
+
+
+    <chapter xml:id="a-new-journey">
+      <info>
+        <title>A New Journey<indexterm>
+            <primary><citetitle>A New Journey (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="the-story-of-el-ahrairah-and-the-black-rabbit-of-inle">
+      <info>
+        <title>The Story of El-ahrairah and the Black Rabbit of Inle<indexterm>
+            <primary><citetitle>The Story of El-ahrairah and the Black Rabbit of Inle
+                (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="across-the-iron-road">
+      <info>
+        <title>Across the Iron Road<indexterm>
+            <primary><citetitle>Across the Iron Road (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="the-great-river">
+      <info>
+        <title>The Great River<indexterm>
+            <primary><citetitle>The Great River (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="general-woundwort">
+      <info>
+        <title>General Woundwort<indexterm>
+            <primary><citetitle>General Woundwort (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="groping">
+      <info>
+        <title>Groping<indexterm>
+            <primary><citetitle>Groping (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="approaching-thunder">
+      <info>
+        <title>Approaching Thunder<indexterm>
+            <primary><citetitle>Approaching Thunder (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="the-thunder-builds-up">
+      <info>
+        <title>The Thunder Builds Up<indexterm>
+            <primary><citetitle>The Thunder Builds Up (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="the-thunder-breaks">
+      <info>
+        <title>The Thunder Breaks<indexterm>
+            <primary><citetitle>The Thunder Breaks (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+  </part>
+
+
+  <!-- ===================== PART FOUR ====================== -->
+
+  <part xml:id="hazel-rah">
+    <info>
+      <title>HAZEL-RAH <indexterm><primary><citetitle>Hazel-Rah
+          (Part IV)</citetitle></primary></indexterm>
+      </title>
+    </info>
+    
+    <!-- ===================== PART FOUR CHAPTERS ====================== -->
+
+    <chapter xml:id="the-bridges">
+      <info>
+        <title>The Bridges<indexterm>
+            <primary><citetitle>The Bridges (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="the-way-back">
+      <info>
+        <title>The Way Back<indexterm>
+            <primary><citetitle>The Way Back (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="the-story-of-rowsby-woof-and-fairy-wogdog">
+      <info>
+        <title>The Story of Rowsby Woof and Fairy Wogdog<indexterm>
+            <primary><citetitle>The Story of Rowsby Woof and Fairy Wogdog
+              (chapter)</citetitle></primary>
+          </indexterm>
+          <indexterm><primary>Rowsby Woof</primary></indexterm>
+          <indexterm><primary>Fairy Wogdog</primary></indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="news-at-sunset">
+      <info>
+        <title>News at Sunset<indexterm>
+            <primary><citetitle>News at Sunset (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="the-great-patrol">
+      <info>
+        <title>The Great Patrol<indexterm>
+            <primary><citetitle>The Great Patrol (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="a-message-from-el-ahrairah">
+      <info>
+        <title>A Message from El-ahrairah<indexterm>
+            <primary><citetitle>A Message from El-ahrairah (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="nuthanger-farm-again">
+      <info>
+        <title>Nuthanger Farm Again<indexterm>
+            <primary><citetitle>Nuthanger Farm Again (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="bigwig-stands-his-ground">
+      <info>
+        <title>Bigwig Stands his Ground<indexterm>
+            <primary><citetitle>Bigwig Stands his Ground (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="the-sky-suspended">
+      <info>
+        <title>The Sky Suspended<indexterm>
+            <primary><citetitle>The Sky Suspended (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="dea-ex-machina">
+      <info>
+        <title>Dea ex Machina<indexterm>
+            <primary><citetitle>Dea ex Machina (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>The <citetitle><foreignphrase>Dea ex Machina</foreignphrase></citetitle> (goddess from
+        the machine) probably refers to...</para>
+    </chapter>
+
+    <chapter xml:id="hazel-comes-home">
+      <info>
+        <title>Hazel Comes Home<indexterm>
+            <primary><citetitle>Hazel Comes Home (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="and-last">
+      <info>
+        <title>And Last<indexterm>
+            <primary><citetitle>And Last (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+    <chapter xml:id="epilogue">
+      <info>
+        <title>Epilogue<indexterm>
+            <primary><citetitle>Epilogue (chapter)</citetitle></primary>
+          </indexterm>
+        </title>
+
+      </info>
+      <para>HERE</para>
+    </chapter>
+
+
+  </part>
+
+  <!-- ===================== LAST PAGE ====================== -->
+
+  <colophon>
+    <para>The <link xlink:href="http://docbook.org/">DocBook 5</link> source is here: <uri
+        type="webpage"><link
+          xlink:href="https://github.com/johngtait/johngtait.github.io/blob/master/wd.xml"
+      /></uri></para>
+  </colophon>
+
+  <!-- ===================== END OF PARTS AND SECTIONS ====================== -->
+
+</book>
+<!-- ===================== THE END! ====================== -->
