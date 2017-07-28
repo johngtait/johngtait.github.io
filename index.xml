@@ -122,13 +122,40 @@
     </glossentry>
     
     <glossentry>
-      <glossterm>abc</glossterm>
-      <glossdef><para>test</para></glossdef>
+      <glossterm>outskirter</glossterm>
+      <glossdef><para>rank-and-file ordinary rabbit</para></glossdef>
     </glossentry>
     
     <glossentry>
       <glossterm><foreignphrase>hrududu</foreignphrase></glossterm>
       <glossdef><para>car</para></glossdef>
+    </glossentry>
+
+    
+    <glossentry>
+      <glossterm><foreignphrase>Hrair</foreignphrase></glossterm>
+      <glossdef><para>a lot</para></glossdef>
+    </glossentry>
+
+    
+    <glossentry>
+      <glossterm><foreignphrase>U Hrair</foreignphrase></glossterm>
+      <glossdef><para>The Thousand (all the enemies)</para></glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm><foreignphrase>elil</foreignphrase></glossterm>
+      <glossdef><para>enemies</para></glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm>
+      <glossdef><para>Little Thousand (Fiver's name in Lapine)</para></glossdef>
+    </glossentry>
+    
+  <glossentry>
+      <glossterm><foreignphrase>Owsla</foreignphrase></glossterm>
+      <glossdef><para>strong or clever rabbits surrounding the Chief Rabbit</para></glossdef>
     </glossentry>
     
     <glossentry>
@@ -136,11 +163,6 @@
       <glossdef><para>goddess in the machine</para></glossdef>
     </glossentry>
     
-    <glossentry>
-      <glossterm>Kehaar</glossterm>
-      <glossdef><para>seagull</para></glossdef>
-    </glossentry>
-
   </glossary>
 
   <!-- ===================== INDEX ====================== -->
@@ -160,9 +182,8 @@
   <part xml:id="the-journey">
 
     <info>
-      <title>THE JOURNEY <indexterm><primary><citetitle>The Journey (Part I)</citetitle></primary>
-          <secondary>3-100</secondary>
-        </indexterm>
+      <title>THE JOURNEY <indexterm><primary><citetitle>The Journey (Part I)</citetitle>, 1-156</primary>
+          </indexterm>
 
       </title>
 
@@ -173,17 +194,44 @@
     <chapter xml:id="the-notice-board">
       <info>
         <title>The Notice Board<indexterm>
-            <primary><citetitle>The Notice Board (chapter)</citetitle></primary>
-            <secondary>7-10</secondary>
-          
-          </indexterm>
-          <indexterm><primary>Fiver</primary><secondary>vision, 20-24</secondary></indexterm>
-          <indexterm><primary>Fiver</primary><secondary>dream, 25-48</secondary></indexterm>
+        <primary><citetitle>The Notice Board (chapter)</citetitle>, 3-20</primary>
+        
+      </indexterm>
+      <indexterm><primary>Fiver</primary><secondary>introduction, 5</secondary></indexterm>
+      <indexterm><primary>Fiver</primary><secondary>vision, 7-8</secondary></indexterm>
+      
+      <indexterm><primary>Fiver</primary><secondary><glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm>, 5 (footnote)</secondary></indexterm>
+      
+      <indexterm><primary>Hazel</primary><secondary>introduction, 4</secondary></indexterm>
+
+      <indexterm><primary>Buckthorn</primary><secondary>introduction, 5</secondary></indexterm>
+
+      <indexterm><primary>Toadflax</primary><secondary>introduction, 6</secondary></indexterm>
+
+      <indexterm><primary><personname>Aeschylus, 3</personname></primary></indexterm>
+      <indexterm><primary><citetitle>Agamemnom</citetitle>, 4</primary></indexterm>
+      <indexterm><primary><glossterm>outskirter</glossterm></primary><secondary>defined, 4</secondary></indexterm>
+
+      <indexterm><primary><glossterm><foreignphrase>U Hrair</foreignphrase></glossterm></primary><secondary>defined, 5 (footnote)</secondary></indexterm>
+      <indexterm><primary><glossterm><foreignphrase>Hrair</foreignphrase></glossterm></primary><secondary>defined, 5 (footnote)</secondary></indexterm>
+
+      <indexterm><primary><glossterm><foreignphrase>elil</foreignphrase></glossterm></primary><secondary>defined, 5 (footnote)</secondary></indexterm>
+
+      <indexterm><primary><glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm></primary><secondary>defined, 5 (footnote)</secondary></indexterm>
+
+      
+      <indexterm><primary><glossterm><foreignphrase>Owsla</foreignphrase></glossterm></primary><secondary>defined, 6-7 (footnote)</secondary></indexterm>
+
+      
+      <indexterm><primary>cowslip (flower), 6</primary></indexterm>
+      <indexterm><primary>notice board of development of Sandleford, 10</primary></indexterm>
+      
+      <indexterm><primary>Sandleford</primary><secondary>first mention, 7 (footnote)</secondary></indexterm>
+      <indexterm><primary>Sandleford</primary><secondary>development, 10</secondary></indexterm>
+      
         </title>
       </info>
-      <para>This is paragraph not in an abstract. See <glossterm>abc</glossterm>. See
-            <glossterm><foreignphrase>hrududu</foreignphrase></glossterm>.</para>
-      <para><personname>Fiver</personname> has a bad dream</para>
+      <para>Fiver has a vision some terrible thing is coming closer and closer.</para>
     </chapter>
 
     <chapter xml:id="the-chief-rabbit">
@@ -789,7 +837,7 @@
   <colophon>
     <para>The <link xlink:href="http://docbook.org/">DocBook 5</link> source is here: <uri
         type="webpage"><link
-          xlink:href="https://github.com/johngtait/johngtait.github.io/blob/master/wd.xml"
+          xlink:href="https://github.com/johngtait/johngtait.github.io/blob/master/index.xml"
       /></uri></para>
   </colophon>
 
