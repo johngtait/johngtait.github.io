@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbookxi.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+  <!-- ===================== THIS IS A DRAFT DOCBOOK DOCUMENT ====================== -->
+
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" xml:id="john">
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" xml:id="watership-down-index" status="draft">
+
   <!-- ===================== INFO STARTS ====================== -->
   
   
@@ -43,7 +47,7 @@
       <para role="tagline">Watership Down – A supplement</para>
       <mediaobject>
         <imageobject>
-          <imagedata fileref="wd2.gif">
+          <imagedata fileref="cover.gif">
             <info>
               <author>
                 <personname><surname>Tait</surname><firstname>John</firstname></personname>
@@ -58,11 +62,12 @@
 
     <abstract>
 
-      <para> A pointless supplement to the classic rabbit epic <citetitle>Watership Down</citetitle> by
+      <para> A supplement to the classic rabbit epic <citetitle>Watership Down</citetitle> by
           <personname>Richard Adams</personname>. It includes a full index, a glossary, and chapter
         summaries.</para>
       <para><citetitle>Watership Down</citetitle> is the best book in the whole world. It was the basis for a smash hit 1978 <link xlink:href="https://en.wikipedia.org/wiki/Watership_Down_%28film%29">film</link> of the same name. I'm still recovering from that experience, as we all are.</para>
       <para>Comments welcome: <email>johngtait@gmail.com</email></para>
+      <caution><para>This is a work in progress</para></caution>
     </abstract>
 
 
@@ -82,12 +87,12 @@
     <revhistory>
       <revision>
         <revnumber>1</revnumber>
-        <date>August 2017</date>
+        <date>July 2017</date>
         <author>
           <personname><surname>Tait</surname><firstname>John</firstname></personname>
         </author>
         <revdescription>
-          <para>First go</para>
+          <para>Work in progress</para>
         </revdescription>
       </revision>
     </revhistory>
@@ -102,9 +107,10 @@
     <para>Thanks to <personname>Hagino</personname> XX.</para>
     <mediaobject>
 
-      <imageobject>
-        <imagedata fileref="wd2.gif" align="center" width="8cm"/>
-      </imageobject>
+<!--      <imageobject>
+        <imagedata fileref="image.gif" align="center" width="8cm"/>
+      </imageobject> -->
+      
     </mediaobject>
 
   </dedication>
@@ -121,62 +127,71 @@
       <glossdef><para></para></glossdef>
     </glossentry>
     
+ 
     <glossentry>
-      <glossterm>outskirter</glossterm>
-      <glossdef><para>rank-and-file ordinary rabbit</para></glossdef>
+      <glossterm><foreignphrase>Dea ex Machina</foreignphrase></glossterm>
+      <glossdef><para>goddess in the machine</para></glossdef>
     </glossentry>
+ 
+    <glossentry>
+      <glossterm><foreignphrase>elil</foreignphrase></glossterm>
+      <glossdef><para>enemies</para></glossdef>
+    </glossentry>
+
+           
+    <glossentry>
+      <glossterm><foreignphrase>Hrair</foreignphrase></glossterm>
+      <glossdef><para>a lot</para></glossdef>
+    </glossentry>
+
+           <glossentry>
+      <glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm>
+      <glossdef><para>Little Thousand (name of Fiver in Lapine)</para></glossdef>
+       </glossentry>
+
     
     <glossentry>
       <glossterm><foreignphrase>hrududu</foreignphrase></glossterm>
       <glossdef><para>car</para></glossdef>
     </glossentry>
 
-    
-    <glossentry>
-      <glossterm><foreignphrase>Hrair</foreignphrase></glossterm>
-      <glossdef><para>a lot</para></glossdef>
-    </glossentry>
-
-    
-    <glossentry>
-      <glossterm><foreignphrase>U Hrair</foreignphrase></glossterm>
-      <glossdef><para>The Thousand (all the enemies)</para></glossdef>
-    </glossentry>
-
-    <glossentry>
-      <glossterm><foreignphrase>elil</foreignphrase></glossterm>
-      <glossdef><para>enemies</para></glossdef>
-    </glossentry>
-
-    <glossentry>
-      <glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm>
-      <glossdef><para>Little Thousand (name of Fiver in Lapine)</para></glossdef>
-    </glossentry>
-    
-  <glossentry>
-      <glossterm><foreignphrase>Owsla</foreignphrase></glossterm>
-      <glossdef><para>strong or clever rabbits surrounding the Chief Rabbit</para></glossdef>
-    </glossentry>
-    
-    <glossentry>
-      <glossterm><foreignphrase>Dea ex Machina</foreignphrase></glossterm>
-      <glossdef><para>goddess in the machine</para></glossdef>
-    </glossentry>
 
   <glossentry>
       <glossterm><foreignphrase>ni-Frith</foreignphrase></glossterm>
       <glossdef><para>noon</para></glossdef>
     </glossentry>
 
-  <glossentry>
-      <glossterm><foreignphrase>Threarah</foreignphrase></glossterm>
-      <glossdef><para>Lord Rowan Tree (name of Chief Rabbit of Sandleford in Lapine)</para></glossdef>
+   <glossentry>
+      <glossterm>outskirter</glossterm>
+      <glossdef><para>rank-and-file ordinary rabbit</para></glossdef>
     </glossentry>
+
+    
+      <glossentry>
+      <glossterm><foreignphrase>Owsla</foreignphrase></glossterm>
+      <glossdef><para>strong or clever rabbits surrounding the Chief Rabbit</para></glossdef>
+    </glossentry>
+    
     
       <glossentry>
       <glossterm><foreignphrase>Thlayli</foreignphrase></glossterm>
       <glossdef><para>Furhead (name of Bigwig in Lapine)</para></glossdef>
+      </glossentry>
+
+    
+  <glossentry>
+      <glossterm><foreignphrase>Threarah</foreignphrase></glossterm>
+      <glossdef><para>Lord Rowan Tree (name of Chief Rabbit of Sandleford in Lapine)</para></glossdef>
     </glossentry>
+
+   
+    <glossentry>
+      <glossterm><foreignphrase>U Hrair</foreignphrase></glossterm>
+      <glossdef><para>The Thousand (all the enemies)</para></glossdef>
+    </glossentry>
+
+
+      
   </glossary>
 
   <!-- ===================== INDEX ====================== -->
@@ -255,7 +270,7 @@
           </indexterm>
         </title>
 	      <indexterm><primary><glossterm><foreignphrase>ni-Frith</foreignphrase></glossterm></primary><secondary>defined, 12</secondary></indexterm>
-      <indexterm><primary><personname>Henry Vaughan, 11</personname></primary></indexterm>
+      <indexterm><primary><personname>Henry Vaughan</personname>, 11</primary></indexterm>
       <indexterm><primary><citetitle>The World</citetitle>, 11</primary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>dream about water, 11-12</secondary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>vision, 12, 16</secondary></indexterm>
