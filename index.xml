@@ -162,6 +162,12 @@
       <glossterm><foreignphrase>Dea ex Machina</foreignphrase></glossterm>
       <glossdef><para>goddess in the machine</para></glossdef>
     </glossentry>
+
+  <glossentry>
+      <glossterm><foreignphrase>ni-Frith</foreignphrase></glossterm>
+      <glossdef><para>noon</para></glossdef>
+    </glossentry>
+
     
   </glossary>
 
@@ -209,7 +215,7 @@
       <indexterm><primary>Toadflax</primary><secondary>introduction, 6</secondary></indexterm>
 
       <indexterm><primary><personname>Aeschylus, 3</personname></primary></indexterm>
-      <indexterm><primary><citetitle>Agamemnom</citetitle>, 4</primary></indexterm>
+      <indexterm><primary><citetitle>Agamemnom</citetitle>, 3</primary></indexterm>
       <indexterm><primary><glossterm>outskirter</glossterm></primary><secondary>defined, 4</secondary></indexterm>
 
       <indexterm><primary><glossterm><foreignphrase>U Hrair</foreignphrase></glossterm></primary><secondary>defined, 5 (footnote)</secondary></indexterm>
@@ -237,11 +243,16 @@
     <chapter xml:id="the-chief-rabbit">
       <info>
         <title>The Chief Rabbit<indexterm>
-            <primary><citetitle>The Chief Rabbit (chapter)</citetitle></primary>
+            <primary><citetitle>The Chief Rabbit (chapter)</citetitle>, 11-20</primary>
           </indexterm>
         </title>
-
+      <indexterm><primary><personname>Henry Vaughan, 11</personname></primary></indexterm>
+      <indexterm><primary><citetitle>The World</citetitle>, 11</primary></indexterm>
+      <indexterm><primary>Fiver</primary><secondary>dream about water, 11-12</secondary></indexterm>
+      <indexterm><primary>Fiver</primary><secondary>vision, 12</secondary></indexterm>
+      
       </info>
+      <para>
     </chapter>
 
     <chapter xml:id="hazels-decision">
