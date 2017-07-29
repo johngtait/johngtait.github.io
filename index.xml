@@ -150,7 +150,7 @@
 
     <glossentry>
       <glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm>
-      <glossdef><para>Little Thousand (Fiver's name in Lapine)</para></glossdef>
+      <glossdef><para>Little Thousand (name of Fiver in Lapine)</para></glossdef>
     </glossentry>
     
   <glossentry>
@@ -168,7 +168,15 @@
       <glossdef><para>noon</para></glossdef>
     </glossentry>
 
+  <glossentry>
+      <glossterm><foreignphrase>Threarah</foreignphrase></glossterm>
+      <glossdef><para>Lord Rowan Tree (name of Chief Rabbit of Sandleford in Lapine)</para></glossdef>
+    </glossentry>
     
+      <glossentry>
+      <glossterm><foreignphrase>Thlayli</foreignphrase></glossterm>
+      <glossdef><para>Furhead (name of Bigwig in Lapine)</para></glossdef>
+    </glossentry>
   </glossary>
 
   <!-- ===================== INDEX ====================== -->
@@ -203,16 +211,16 @@
         <primary><citetitle>The Notice Board (chapter)</citetitle>, 3-20</primary>
         
       </indexterm>
-      <indexterm><primary>Fiver</primary><secondary>introduction, 5</secondary></indexterm>
+      <indexterm><primary>Fiver</primary><secondary>introduction to, 5</secondary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>vision, 7-8</secondary></indexterm>
+      <indexterm><primary>Fiver</primary><secondary>name in Lapine <glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm>, 5 (footnote)</secondary></indexterm>
       
-      <indexterm><primary>Fiver</primary><secondary><glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm>, 5 (footnote)</secondary></indexterm>
       
-      <indexterm><primary>Hazel</primary><secondary>introduction, 4</secondary></indexterm>
+      <indexterm><primary>Hazel</primary><secondary>introduction to, 4</secondary></indexterm>
 
-      <indexterm><primary>Buckthorn</primary><secondary>introduction, 5</secondary></indexterm>
+      <indexterm><primary>Buckthorn</primary><secondary>introduction to, 5</secondary></indexterm>
 
-      <indexterm><primary>Toadflax</primary><secondary>introduction, 6</secondary></indexterm>
+      <indexterm><primary>Toadflax</primary><secondary>introduction to, 6</secondary></indexterm>
 
       <indexterm><primary><personname>Aeschylus, 3</personname></primary></indexterm>
       <indexterm><primary><citetitle>Agamemnom</citetitle>, 3</primary></indexterm>
@@ -246,19 +254,29 @@
             <primary><citetitle>The Chief Rabbit (chapter)</citetitle>, 11-20</primary>
           </indexterm>
         </title>
+	      <indexterm><primary><glossterm><foreignphrase>ni-Frith</foreignphrase></glossterm></primary><secondary>defined, 12</secondary></indexterm>
       <indexterm><primary><personname>Henry Vaughan, 11</personname></primary></indexterm>
       <indexterm><primary><citetitle>The World</citetitle>, 11</primary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>dream about water, 11-12</secondary></indexterm>
-      <indexterm><primary>Fiver</primary><secondary>vision, 12</secondary></indexterm>
+      <indexterm><primary>Fiver</primary><secondary>vision, 12, 16</secondary></indexterm>
+           <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>introduction to, 14</secondary></indexterm>
+      <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>name in Lapine <glossterm><foreignphrase>Threarah</foreignphrase></glossterm>, 13</secondary></indexterm>
+            <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>response to myxomatosis in Sandleford, 14</secondary></indexterm>
+      <indexterm><primary><glossterm><foreignphrase>Threarah</foreignphrase></glossterm>, 13</primary></indexterm>
+      <indexterm><primary>Bigwig</primary><secondary>introduction to, 13</secondary></indexterm>
+      <indexterm><primary>Bigwig</primary><secondary>name in Lapine <glossterm><foreignphrase>Thlayli</foreignphrase></glossterm>, 13</secondary></indexterm>
+      <indexterm><primary><glossterm><foreignphrase>Thlayli</foreignphrase></glossterm>, 13</primary></indexterm>
+      <indexterm><primary>Sandleford</primary><secondary>myxomatosis, 14</secondary></indexterm>
+      <indexterm><primary>myxomatosis</primary><secondary>in Sandleford, 14</secondary></indexterm>
       
       </info>
-      <para>
+      <para>Bigwing allows Hazel and Fiver visit the Chief Rabbit of Sandleford, who isn't interested in Fiver's bad danger.</para>
     </chapter>
 
     <chapter xml:id="hazels-decision">
       <info>
         <title>Hazel's Decision <indexterm>
-            <primary><citetitle>Hazel's Decision (chapter)</citetitle></primary>
+            <primary><citetitle>Hazel's Decision (chapter)</citetitle>, 17-20</primary>
           </indexterm>
         </title>
 
