@@ -119,9 +119,8 @@
   <!-- ===================== GLOSSARY ====================== -->
 
   <glossary xml:id="watership-down-glossary">
-    <title>Glossary of names, places, lapine words and other terms</title>
-    
-    
+    <title>Glossary of names, places, Lapine words and other terms</title>
+        
     <glossentry>
       <glossterm></glossterm>
       <glossdef><para></para></glossdef>
@@ -138,6 +137,16 @@
       <glossdef><para>enemies</para></glossdef>
     </glossentry>
 
+ 
+    <glossentry>
+      <glossterm><foreignphrase>fu Inle</foreignphrase></glossterm>
+      <glossdef><para>after moonrise</para></glossdef>
+    </glossentry>
+    
+        <glossentry>
+      <glossterm><foreignphrase>Frithrah!</foreignphrase></glossterm>
+      <glossdef><para>exclamation. Likely to be 'God!'</para></glossdef>
+    </glossentry>
            
     <glossentry>
       <glossterm><foreignphrase>Hrair</foreignphrase></glossterm>
@@ -211,8 +220,7 @@
   <part xml:id="the-journey">
 
     <info>
-      <title>THE JOURNEY <indexterm><primary><citetitle>The Journey (Part I)</citetitle>, 1-156</primary>
-          </indexterm>
+      <title>THE JOURNEY <indexterm><primary><citetitle>The Journey (Part I)</citetitle>, 1-156</primary></indexterm>
 
       </title>
 
@@ -223,9 +231,7 @@
     <chapter xml:id="the-notice-board">
       <info>
         <title>The Notice Board<indexterm>
-        <primary><citetitle>The Notice Board (chapter)</citetitle>, 3-20</primary>
-        
-      </indexterm>
+        <primary><citetitle>The Notice Board (chapter)</citetitle>, 3-20</primary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>introduction to, 5</secondary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>vision, 7-8</secondary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>name in Lapine <glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm>, 5 (footnote)</secondary></indexterm>
@@ -236,6 +242,7 @@
       <indexterm><primary>Buckthorn</primary><secondary>introduction to, 5</secondary></indexterm>
 
       <indexterm><primary>Toadflax</primary><secondary>introduction to, 6</secondary></indexterm>
+       <indexterm><primary>Buckthorn</primary><secondary>introduction to (unnamed, rabbit with black-tipped ears), 5</secondary></indexterm>
 
       <indexterm><primary><personname>Aeschylus, 3</personname></primary></indexterm>
       <indexterm><primary><citetitle>Agamemnom</citetitle>, 3</primary></indexterm>
@@ -257,6 +264,7 @@
       
       <indexterm><primary>Sandleford</primary><secondary>first mention, 7 (footnote)</secondary></indexterm>
       <indexterm><primary>Sandleford</primary><secondary>development, 10</secondary></indexterm>
+               <indexterm><primary>counting</primary><secondary>rabbit concept of, 5</secondary></indexterm>
       
         </title>
       </info>
@@ -266,8 +274,7 @@
     <chapter xml:id="the-chief-rabbit">
       <info>
         <title>The Chief Rabbit<indexterm>
-            <primary><citetitle>The Chief Rabbit (chapter)</citetitle>, 11-20</primary>
-          </indexterm>
+            <primary><citetitle>The Chief Rabbit (chapter)</citetitle>, 11-20</primary></indexterm>
         </title>
 	      <indexterm><primary><glossterm><foreignphrase>ni-Frith</foreignphrase></glossterm></primary><secondary>defined, 12</secondary></indexterm>
       <indexterm><primary><personname>Henry Vaughan</personname>, 11</primary></indexterm>
@@ -287,15 +294,27 @@
       <indexterm><primary>myxomatosis</primary><secondary>in Sandleford, 14</secondary></indexterm>
       
       </info>
-      <para>Bigwing allows Hazel and Fiver visit the Chief Rabbit of Sandleford, who isn't interested in Fiver's bad danger.</para>
+      <para>Bigwig allows Hazel and Fiver visit the Chief Rabbit of Sandleford, who isn't interested in Fiver's bad danger.</para>
     </chapter>
 
     <chapter xml:id="hazels-decision">
       <info>
         <title>Hazel's Decision <indexterm>
-            <primary><citetitle>Hazel's Decision (chapter)</citetitle>, 17-20</primary>
-          </indexterm>
+            <primary><citetitle>Hazel's Decision (chapter)</citetitle>, 17-20</primary></indexterm>
         </title>
+      <indexterm><primary><personname>Xenophon</personname>, 17</primary></indexterm>
+      <indexterm><primary><citetitle>The Anabasis</citetitle>, 17</primary></indexterm>
+      <indexterm><primary>Buckthorn</primary><secondary>named, 17</secondary></indexterm>
+      <indexterm><primary>Dandelion</primary><secondary>introduction to, 17</secondary></indexterm>
+      <indexterm><primary>notice board of development of Sandleford, 17</primary></indexterm>
+      <indexterm><primary>Bigwig</primary><secondary>left Owsla, 18</secondary></indexterm>
+      <indexterm><primary><glossterm><foreignphrase>Frithrah!</foreignphrase></glossterm></primary><secondary>exclaimation, 19</secondary></indexterm>
+      <indexterm><primary>Sandleford</primary><secondary>plan to leave, 19</secondary></indexterm>
+      <indexterm><primary>dog's mercury, 18</primary></indexterm>
+          <indexterm><primary>burnet leaf, 20</primary></indexterm>
+      <indexterm><primary><glossterm><foreignphrase>fu Inle</foreignphrase></glossterm></primary><secondary>first mention, 19</secondary></indexterm>
+            <indexterm><primary>Captain Holly</primary><secondary>first mention, 17</secondary></indexterm>
+      
 
       </info>
     </chapter>
@@ -303,10 +322,15 @@
     <chapter xml:id="the-departure">
       <info>
         <title>The Departure<indexterm>
-            <primary><citetitle>The Departure (chapter)</citetitle></primary>
+            <primary><citetitle>The Departure (chapter), 21-27</citetitle></primary>
           </indexterm>
         </title>
-
+	      <indexterm><primary><personname>Shakespeare</personname>, 21</primary></indexterm>
+      <indexterm><primary><citetitle>Hamlet</citetitle>, 21</primary></indexterm>
+      <indexterm><primary>Buckthorn</primary><secondary>named, 17</secondary></indexterm>
+      <indexterm><primary><glossterm><foreignphrase>fu Inle</foreignphrase></glossterm></primary><secondary>defined, 20</secondary></indexterm>
+            <indexterm><primary>time</primary><secondary>rabbit concept of, 21</secondary></indexterm>
+      
       </info>
       <para>Hi</para>
 
