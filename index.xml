@@ -67,7 +67,7 @@
         summaries.</para>
       <para><citetitle>Watership Down</citetitle> is the best book in the whole world. It was the basis for a smash hit 1978 <link xlink:href="https://en.wikipedia.org/wiki/Watership_Down_%28film%29">film</link> of the same name. I'm still recovering from that experience, as we all are.</para>
       <para>Comments welcome: <email>johngtait@gmail.com</email></para>
-      <caution><para>This is a work in progress</para></caution>
+      <note><para>This is a work in progress</para></note>
     </abstract>
 
 
@@ -86,13 +86,13 @@
 
     <revhistory>
       <revision>
-        <revnumber>1</revnumber>
         <date>July 2017</date>
         <author>
           <personname><surname>Tait</surname><firstname>John</firstname></personname>
         </author>
         <revdescription>
-          <para>Work in progress</para>
+	      <para>The <link xlink:href="http://docbook.org/">DocBook 5</link> source is <link
+          xlink:href="https://github.com/johngtait/johngtait.github.io/blob/master/index.xml">here on GitHub</link>. Up to chapter 4</para>
         </revdescription>
       </revision>
     </revhistory>
@@ -119,7 +119,7 @@
   <!-- ===================== GLOSSARY ====================== -->
 
   <glossary xml:id="watership-down-glossary">
-    <title>Glossary of names, places, Lapine words and other terms</title>
+    <title>Glossary of Lapine and other terms</title>
         
     <glossentry>
       <glossterm></glossterm>
@@ -129,7 +129,7 @@
  
     <glossentry>
       <glossterm><foreignphrase>Dea ex Machina</foreignphrase></glossterm>
-      <glossdef><para>goddess in the machine</para></glossdef>
+      <glossdef><para>goddess in the machine (Latin)</para></glossdef>
     </glossentry>
  
     <glossentry>
@@ -147,7 +147,12 @@
       <glossterm><foreignphrase>Frithrah!</foreignphrase></glossterm>
       <glossdef><para>exclamation. Likely to be 'God!'</para></glossdef>
     </glossentry>
-           
+
+    <glossentry>
+      <glossterm><foreignphrase>Hlao</foreignphrase></glossterm>
+      <glossdef><para>any small concavity in the grass where moisture may collect (name of Pipkin in Lapine)</para></glossdef>
+    </glossentry>
+    
     <glossentry>
       <glossterm><foreignphrase>Hrair</foreignphrase></glossterm>
       <glossdef><para>a lot</para></glossdef>
@@ -196,9 +201,8 @@
    
     <glossentry>
       <glossterm><foreignphrase>U Hrair</foreignphrase></glossterm>
-      <glossdef><para>The Thousand (all the enemies)</para></glossdef>
+      <glossdef><para>The Thousand ('All the enemies' in Lapine)</para></glossdef>
     </glossentry>
-
 
       
   </glossary>
@@ -206,8 +210,8 @@
   <!-- ===================== INDEX ====================== -->
 
   <index xml:id="watership-down-index">
-    <title>Index to the print version with links to the summaries here</title>
-    <para>Links to summaries here. Page numbers are from Puffin edition.</para>
+    <title>Index to the print version</title>
+    <para>The links are to very short chapter summaries. Page numbers are from 2014 Puffin edition.</para>
   </index>
 
 
@@ -220,10 +224,7 @@
   <part xml:id="the-journey">
 
     <info>
-      <title>THE JOURNEY <indexterm><primary><citetitle>The Journey (Part I)</citetitle>, 1-156</primary></indexterm>
-
-      </title>
-
+      <title>THE JOURNEY <indexterm><primary><citetitle>The Journey (Part I)</citetitle>, 1-156</primary></indexterm></title>
     </info>
 
     <!-- ===================== PART ONE CHAPTERS ====================== -->
@@ -234,41 +235,29 @@
         <primary><citetitle>The Notice Board (chapter)</citetitle>, 3-20</primary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>introduction to, 5</secondary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>vision, 7-8</secondary></indexterm>
-      <indexterm><primary>Fiver</primary><secondary>name in Lapine <glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm>, 5 (footnote)</secondary></indexterm>
+      <indexterm><primary>Fiver</primary><secondary>name in Lapine (<glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm>), 5 (footnote)</secondary></indexterm>
       
       
       <indexterm><primary>Hazel</primary><secondary>introduction to, 4</secondary></indexterm>
-
-      <indexterm><primary>Buckthorn</primary><secondary>introduction to, 5</secondary></indexterm>
-
       <indexterm><primary>Toadflax</primary><secondary>introduction to, 6</secondary></indexterm>
        <indexterm><primary>Buckthorn</primary><secondary>introduction to (unnamed, rabbit with black-tipped ears), 5</secondary></indexterm>
-
       <indexterm><primary><personname>Aeschylus, 3</personname></primary></indexterm>
       <indexterm><primary><citetitle>Agamemnom</citetitle>, 3</primary></indexterm>
       <indexterm><primary><glossterm>outskirter</glossterm></primary><secondary>defined, 4</secondary></indexterm>
-
       <indexterm><primary><glossterm><foreignphrase>U Hrair</foreignphrase></glossterm></primary><secondary>defined, 5 (footnote)</secondary></indexterm>
       <indexterm><primary><glossterm><foreignphrase>Hrair</foreignphrase></glossterm></primary><secondary>defined, 5 (footnote)</secondary></indexterm>
-
       <indexterm><primary><glossterm><foreignphrase>elil</foreignphrase></glossterm></primary><secondary>defined, 5 (footnote)</secondary></indexterm>
-
       <indexterm><primary><glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm></primary><secondary>defined, 5 (footnote)</secondary></indexterm>
-
-      
       <indexterm><primary><glossterm><foreignphrase>Owsla</foreignphrase></glossterm></primary><secondary>defined, 6-7 (footnote)</secondary></indexterm>
-
-      
       <indexterm><primary>cowslip (flower), 6</primary></indexterm>
       <indexterm><primary>notice board of development of Sandleford, 10</primary></indexterm>
-      
       <indexterm><primary>Sandleford</primary><secondary>first mention, 7 (footnote)</secondary></indexterm>
       <indexterm><primary>Sandleford</primary><secondary>development, 10</secondary></indexterm>
-               <indexterm><primary>counting</primary><secondary>rabbit concept of, 5</secondary></indexterm>
-      
+      <indexterm><primary>counting</primary><secondary>rabbit concept of, 5</secondary></indexterm>
+            
         </title>
       </info>
-      <para>Fiver has a vision some terrible thing is coming closer and closer.</para>
+      <para>Fiver has a vision: some terrible thing is coming closer and closer.</para>
     </chapter>
 
     <chapter xml:id="the-chief-rabbit">
@@ -282,19 +271,17 @@
       <indexterm><primary>Fiver</primary><secondary>dream about water, 11-12</secondary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>vision, 12, 16</secondary></indexterm>
            <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>introduction to, 14</secondary></indexterm>
-      <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>name in Lapine <glossterm><foreignphrase>Threarah</foreignphrase></glossterm>, 13</secondary></indexterm>
+      <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>name in Lapine (<glossterm><foreignphrase>Threarah</foreignphrase></glossterm>), 13</secondary></indexterm>
       <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>response to myxomatosis in Sandleford, 14</secondary></indexterm>
-            <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>reluctance to leave Sandleford, 15-16</secondary></indexterm>
-      
-      <indexterm><primary><glossterm><foreignphrase>Threarah</foreignphrase></glossterm>, 13</primary></indexterm>
+      <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>reluctance to leave Sandleford, 15-16</secondary></indexterm>
+            <indexterm><primary><glossterm><foreignphrase>Threarah</foreignphrase></glossterm>, 13</primary></indexterm>
       <indexterm><primary>Bigwig</primary><secondary>introduction to, 13</secondary></indexterm>
-      <indexterm><primary>Bigwig</primary><secondary>name in Lapine <glossterm><foreignphrase>Thlayli</foreignphrase></glossterm>, 13</secondary></indexterm>
+      <indexterm><primary>Bigwig</primary><secondary>name in Lapine (<glossterm><foreignphrase>Thlayli</foreignphrase></glossterm>), 13</secondary></indexterm>
       <indexterm><primary><glossterm><foreignphrase>Thlayli</foreignphrase></glossterm>, 13</primary></indexterm>
       <indexterm><primary>Sandleford</primary><secondary>myxomatosis, 14</secondary></indexterm>
       <indexterm><primary>myxomatosis</primary><secondary>in Sandleford, 14</secondary></indexterm>
-      
-      </info>
-      <para>Bigwig allows Hazel and Fiver visit the Chief Rabbit of Sandleford, who isn't interested in Fiver's bad danger.</para>
+            </info>
+      <para>Bigwig allows Hazel and Fiver to visit the Chief Rabbit of Sandleford. The Chief Rabbit isn't interested in Fiver's bad danger.</para>
     </chapter>
 
     <chapter xml:id="hazels-decision">
@@ -317,6 +304,7 @@
       
 
       </info>
+      <para>Hazel decides to leave Sandleford with Fiver after moonrise. Bigwig quits the Owsla and joins them.</para>
     </chapter>
 
     <chapter xml:id="the-departure">
@@ -325,23 +313,31 @@
             <primary><citetitle>The Departure (chapter), 21-27</citetitle></primary>
           </indexterm>
         </title>
-	      <indexterm><primary><personname>Shakespeare</personname>, 21</primary></indexterm>
-      <indexterm><primary><citetitle>Hamlet</citetitle>, 21</primary></indexterm>
-      <indexterm><primary>Buckthorn</primary><secondary>named, 17</secondary></indexterm>
-      <indexterm><primary><glossterm><foreignphrase>fu Inle</foreignphrase></glossterm></primary><secondary>defined, 20</secondary></indexterm>
-            <indexterm><primary>time</primary><secondary>rabbit concept of, 21</secondary></indexterm>
-      
+	<indexterm><primary><personname>Shakespeare</personname>, 21</primary></indexterm>
+	<indexterm><primary><citetitle>Hamlet</citetitle>, 21</primary></indexterm>
+	<indexterm><primary><glossterm><foreignphrase>fu Inle</foreignphrase></glossterm></primary><secondary>defined, 20</secondary></indexterm>
+	<indexterm><primary>time</primary><secondary>rabbit concept of, 21</secondary></indexterm>
+	<indexterm><primary>Pipkin</primary><secondary>introduction to, 22</secondary></indexterm>
+	<indexterm><primary>Pipkin</primary><secondary>name in Lapine (<glossterm><foreignphrase>Hlao</foreignphrase></glossterm>), 22</secondary></indexterm>
+	<indexterm><primary><foreignphrase>Hlao</foreignphrase></primary></indexterm>
+              <indexterm><primary>Hawkbit</primary><secondary>introduction to, 23</secondary></indexterm>
+   	      <indexterm><primary>Buckthorn</primary><secondary>introduction to, 24</secondary></indexterm>
+	    <indexterm><primary>Speedwell</primary><secondary>introduction to, 24</secondary></indexterm>
+	    <indexterm><primary>Acorn</primary><secondary>introduction to, 24</secondary></indexterm>
+	    <indexterm><primary>Silver</primary><secondary>introduction to, 25</secondary></indexterm>
+	    <indexterm><primary>Captain Holly</primary><secondary>introduction to, 26</secondary></indexterm>
+	    	    <indexterm><primary>fight</primary><secondary>on departing Sandleford (Captain Holly, Bigwig, Buckthorn, Dandelion), 26-27</secondary></indexterm>
       </info>
-      <para>Hi</para>
-
+      <para>The rabbits group after midnight: Bigwig, Fiver, Pipkin, Hawkbit, Dandelion, Blackberry, Buckthorn, Speedwell, Acorn and Silver. Captain Holly attempts to stop them and there is a fight.</para>
     </chapter>
 
     <chapter xml:id="into-the-woods">
       <info>
         <title>Into the Woods<indexterm>
-            <primary><citetitle>Into the Woods (chapter)</citetitle></primary>
-          </indexterm>
+            <primary><citetitle>Into the Woods (chapter)</citetitle>, 28-33</primary></indexterm>
         </title>
+	<indexterm><primary><personname>Lockley, R.M.</personname>, 28</primary></indexterm>
+	<indexterm><primary><citetitle>The Private Life of the Rabbit</citetitle>, 28</primary></indexterm>
 
       </info>
     </chapter>
