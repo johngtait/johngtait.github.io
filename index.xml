@@ -32,7 +32,6 @@
  | |_) | | | (_) | |  __/ (__| |_                                           
  | .__/|_|  \___// |\___|\___|\__|                                          
  |_|           |__/                
-
   -->
   
   
@@ -62,12 +61,13 @@
 
     <abstract>
 
-      <para> A supplement to the classic rabbit epic <citetitle>Watership Down</citetitle> by
+      <para> A supplement to the classic rabbit epic <citetitle>Watership Down</citetitle> by the late
           <personname>Richard Adams</personname>. It includes a full index, a glossary, and chapter
         summaries.</para>
       <para><citetitle>Watership Down</citetitle> is the best book in the whole world. It was the basis for a smash hit 1978 <link xlink:href="https://en.wikipedia.org/wiki/Watership_Down_%28film%29">film</link> of the same name. I'm still recovering from that experience, as we all are.</para>
-      <para>Comments welcome: <email>johngtait@gmail.com</email></para>
-      <note><para>This is a work in progress</para></note>
+      <para><citetitle>Watership Down</citetitle> is &#169; <personname>Richard Adams</personname>.</para>
+      <para>Comments welcome: <email>johngtait@gmail.com</email>. Please say hello if you like this.</para>
+      <note><para>This is a work in progress. I'm going really slow, one chapter at a time.</para></note>
     </abstract>
 
 
@@ -78,7 +78,7 @@
     </author>
     <copyright>
       <year>2017</year>
-      <holder>John Tait</holder>
+      <holder>John Tait, except where noted.</holder>
     </copyright>
     <title>Watership Down – A supplement</title>
 
@@ -91,8 +91,10 @@
           <personname><surname>Tait</surname><firstname>John</firstname></personname>
         </author>
         <revdescription>
-	      <para>The <link xlink:href="http://docbook.org/">DocBook 5</link> source is <link
-          xlink:href="https://github.com/johngtait/johngtait.github.io/blob/master/index.xml">here on GitHub</link>. Up to chapter 4</para>
+	      <para>The <link xlink:href="http://docbook.org/"><package>DocBook 5</package></link> source
+            is <link
+              xlink:href="https://github.com/johngtait/johngtait.github.io/blob/master/index.xml"
+              >here on <package>GitHub</package></link>. Up to chapter 4</para>
         </revdescription>
       </revision>
     </revhistory>
@@ -105,13 +107,13 @@
 
   <dedication>
     <para>Thanks to <personname>Hagino</personname> XX.</para>
-    <mediaobject>
+    <!--   <mediaobject>
 
-<!--      <imageobject>
+     <imageobject>
         <imagedata fileref="image.gif" align="center" width="8cm"/>
-      </imageobject> -->
+      </imageobject> 
       
-    </mediaobject>
+    </mediaobject>  -->
 
   </dedication>
 
@@ -119,8 +121,8 @@
   <!-- ===================== GLOSSARY ====================== -->
 
   <glossary xml:id="watership-down-glossary">
-    <title>Glossary of Lapine and other terms</title>
-        
+    <title>Glossary of Lapine (rabbit language) and other terms</title>
+    <para>From the book, or paraphrased from the book.</para>    
     <glossentry>
       <glossterm></glossterm>
       <glossdef><para></para></glossdef>
@@ -166,7 +168,7 @@
     
     <glossentry>
       <glossterm><foreignphrase>hrududu</foreignphrase></glossterm>
-      <glossdef><para>car</para></glossdef>
+      <glossdef><para>motor vehicle</para></glossdef>
     </glossentry>
 
 
@@ -211,7 +213,12 @@
 
   <index xml:id="watership-down-index">
     <title>Index to the print version</title>
-    <para>The links are to very short chapter summaries. Page numbers are from 2014 Puffin edition.</para>
+    <para>Page numbers are from 2014 Puffin edition.</para>
+    <para>The links are to chapter summaries, which I needed to help <package>DocBook</package>
+      (what I'm using) collect the index terms automagically. <package>DocBook</package>'s index
+      sorting method means that the index entries aren't always sorted well by page number, and the
+      same terms are on more than one line if they appear in different chapters.
+        <foreignphrase>Hraka</foreignphrase>!</para>
   </index>
 
 
@@ -231,16 +238,14 @@
     
     <chapter xml:id="the-notice-board">
       <info>
-        <title>The Notice Board<indexterm>
-        <primary><citetitle>The Notice Board (chapter)</citetitle>, 3-20</primary></indexterm>
+        <title>The Notice Board<indexterm><primary><citetitle>The Notice Board (chapter)</citetitle>, 3-20</primary></indexterm></title>
+      </info>
       <indexterm><primary>Fiver</primary><secondary>introduction to, 5</secondary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>vision, 7-8</secondary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>name in Lapine (<glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm>), 5 (footnote)</secondary></indexterm>
-      
-      
       <indexterm><primary>Hazel</primary><secondary>introduction to, 4</secondary></indexterm>
       <indexterm><primary>Toadflax</primary><secondary>introduction to, 6</secondary></indexterm>
-       <indexterm><primary>Buckthorn</primary><secondary>introduction to (unnamed, rabbit with black-tipped ears), 5</secondary></indexterm>
+      <indexterm><primary>Buckthorn</primary><secondary>introduction to (unnamed, rabbit with black-tipped ears), 5</secondary></indexterm>
       <indexterm><primary><personname>Aeschylus, 3</personname></primary></indexterm>
       <indexterm><primary><citetitle>Agamemnom</citetitle>, 3</primary></indexterm>
       <indexterm><primary><glossterm>outskirter</glossterm></primary><secondary>defined, 4</secondary></indexterm>
@@ -254,41 +259,34 @@
       <indexterm><primary>Sandleford</primary><secondary>first mention, 7 (footnote)</secondary></indexterm>
       <indexterm><primary>Sandleford</primary><secondary>development, 10</secondary></indexterm>
       <indexterm><primary>counting</primary><secondary>rabbit concept of, 5</secondary></indexterm>
-            
-        </title>
-      </info>
       <para>Fiver has a vision: some terrible thing is coming closer and closer.</para>
     </chapter>
-
     <chapter xml:id="the-chief-rabbit">
       <info>
-        <title>The Chief Rabbit<indexterm>
-            <primary><citetitle>The Chief Rabbit (chapter)</citetitle>, 11-20</primary></indexterm>
-        </title>
-	      <indexterm><primary><glossterm><foreignphrase>ni-Frith</foreignphrase></glossterm></primary><secondary>defined, 12</secondary></indexterm>
-      <indexterm><primary><personname>Henry Vaughan</personname>, 11</primary></indexterm>
+        <title>The Chief Rabbit<indexterm><primary><citetitle>The Chief Rabbit (chapter)</citetitle>, 11-20</primary></indexterm></title>
+      </info>
+	    <indexterm><primary><glossterm><foreignphrase>ni-Frith</foreignphrase></glossterm></primary><secondary>defined, 12</secondary></indexterm>
+      <indexterm><primary><personname>Vaughan, Henry</personname>, 11</primary></indexterm>
       <indexterm><primary><citetitle>The World</citetitle>, 11</primary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>dream about water, 11-12</secondary></indexterm>
       <indexterm><primary>Fiver</primary><secondary>vision, 12, 16</secondary></indexterm>
-           <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>introduction to, 14</secondary></indexterm>
+      <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>introduction to, 14</secondary></indexterm>
       <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>name in Lapine (<glossterm><foreignphrase>Threarah</foreignphrase></glossterm>), 13</secondary></indexterm>
       <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>response to myxomatosis in Sandleford, 14</secondary></indexterm>
       <indexterm><primary>Chief Rabbit of Sandleford</primary><secondary>reluctance to leave Sandleford, 15-16</secondary></indexterm>
-            <indexterm><primary><glossterm><foreignphrase>Threarah</foreignphrase></glossterm>, 13</primary></indexterm>
+      <indexterm><primary><glossterm><foreignphrase>Threarah</foreignphrase></glossterm>, 13</primary></indexterm>
       <indexterm><primary>Bigwig</primary><secondary>introduction to, 13</secondary></indexterm>
       <indexterm><primary>Bigwig</primary><secondary>name in Lapine (<glossterm><foreignphrase>Thlayli</foreignphrase></glossterm>), 13</secondary></indexterm>
       <indexterm><primary><glossterm><foreignphrase>Thlayli</foreignphrase></glossterm>, 13</primary></indexterm>
       <indexterm><primary>Sandleford</primary><secondary>myxomatosis, 14</secondary></indexterm>
       <indexterm><primary>myxomatosis</primary><secondary>in Sandleford, 14</secondary></indexterm>
-            </info>
       <para>Bigwig allows Hazel and Fiver to visit the Chief Rabbit of Sandleford. The Chief Rabbit isn't interested in Fiver's bad danger.</para>
     </chapter>
 
     <chapter xml:id="hazels-decision">
       <info>
-        <title>Hazel's Decision <indexterm>
-            <primary><citetitle>Hazel's Decision (chapter)</citetitle>, 17-20</primary></indexterm>
-        </title>
+        <title>Hazel's Decision <indexterm><primary><citetitle>Hazel's Decision (chapter)</citetitle>, 17-20</primary></indexterm></title>
+      </info>
       <indexterm><primary><personname>Xenophon</personname>, 17</primary></indexterm>
       <indexterm><primary><citetitle>The Anabasis</citetitle>, 17</primary></indexterm>
       <indexterm><primary>Buckthorn</primary><secondary>named, 17</secondary></indexterm>
@@ -298,56 +296,51 @@
       <indexterm><primary><glossterm><foreignphrase>Frithrah!</foreignphrase></glossterm></primary><secondary>exclaimation, 19</secondary></indexterm>
       <indexterm><primary>Sandleford</primary><secondary>plan to leave, 19</secondary></indexterm>
       <indexterm><primary>dog's mercury, 18</primary></indexterm>
-          <indexterm><primary>burnet leaf, 20</primary></indexterm>
+      <indexterm><primary>burnet leaf, 20</primary></indexterm>
       <indexterm><primary><glossterm><foreignphrase>fu Inle</foreignphrase></glossterm></primary><secondary>first mention, 19</secondary></indexterm>
-            <indexterm><primary>Captain Holly</primary><secondary>first mention, 17</secondary></indexterm>
-      
+      <indexterm><primary>Captain Holly</primary><secondary>first mention, 17</secondary></indexterm>
 
-      </info>
       <para>Hazel decides to leave Sandleford with Fiver after moonrise. Bigwig quits the Owsla and joins them.</para>
     </chapter>
 
     <chapter xml:id="the-departure">
       <info>
-        <title>The Departure<indexterm>
-            <primary><citetitle>The Departure (chapter), 21-27</citetitle></primary>
-          </indexterm>
+        <title>The Departure<indexterm><primary><citetitle>The Departure (chapter), 21-27</citetitle></primary></indexterm>
         </title>
-	<indexterm><primary><personname>Shakespeare</personname>, 21</primary></indexterm>
-	<indexterm><primary><citetitle>Hamlet</citetitle>, 21</primary></indexterm>
-	<indexterm><primary><glossterm><foreignphrase>fu Inle</foreignphrase></glossterm></primary><secondary>defined, 20</secondary></indexterm>
-	<indexterm><primary>time</primary><secondary>rabbit concept of, 21</secondary></indexterm>
-	<indexterm><primary>Pipkin</primary><secondary>introduction to, 22</secondary></indexterm>
-	<indexterm><primary>Pipkin</primary><secondary>name in Lapine (<glossterm><foreignphrase>Hlao</foreignphrase></glossterm>), 22</secondary></indexterm>
-	<indexterm><primary><foreignphrase>Hlao</foreignphrase></primary></indexterm>
-              <indexterm><primary>Hawkbit</primary><secondary>introduction to, 23</secondary></indexterm>
-   	      <indexterm><primary>Buckthorn</primary><secondary>introduction to, 24</secondary></indexterm>
+      </info>
+	    <indexterm><primary><personname>Shakespeare</personname>, 21</primary></indexterm>
+	    <indexterm><primary><citetitle>Hamlet</citetitle>, 21</primary></indexterm>
+	    <indexterm><primary><glossterm><foreignphrase>fu Inle</foreignphrase></glossterm></primary><secondary>defined, 20</secondary></indexterm>
+	    <indexterm><primary>time</primary><secondary>rabbit concept of, 21</secondary></indexterm>
+	    <indexterm><primary>Pipkin</primary><secondary>introduction to, 22</secondary></indexterm>
+	    <indexterm><primary>Pipkin</primary><secondary>name in Lapine (<glossterm><foreignphrase>Hlao</foreignphrase></glossterm>), 22</secondary></indexterm>
+	    <indexterm><primary><foreignphrase>Hlao</foreignphrase></primary></indexterm>
+      <indexterm><primary>Hawkbit</primary><secondary>introduction to, 23</secondary></indexterm>
+   	  <indexterm><primary>Buckthorn</primary><secondary>introduction to, 24</secondary></indexterm>
 	    <indexterm><primary>Speedwell</primary><secondary>introduction to, 24</secondary></indexterm>
 	    <indexterm><primary>Acorn</primary><secondary>introduction to, 24</secondary></indexterm>
 	    <indexterm><primary>Silver</primary><secondary>introduction to, 25</secondary></indexterm>
 	    <indexterm><primary>Captain Holly</primary><secondary>introduction to, 26</secondary></indexterm>
-	    	    <indexterm><primary>fight</primary><secondary>on departing Sandleford (Captain Holly, Bigwig, Buckthorn, Dandelion), 26-27</secondary></indexterm>
-      </info>
+	    <indexterm><primary>fight</primary><secondary>Sandleford, departing (Captain Holly, Bigwig, Buckthorn, Dandelion), 26-27</secondary></indexterm>
+      <indexterm><primary>Captain Holly</primary><secondary>fight, nn</secondary></indexterm>
+      <indexterm><primary>Buckthorn</primary><secondary>fight, nn</secondary></indexterm>
+      <indexterm><primary>Bigwig</primary><secondary>fight, nn</secondary></indexterm>
+      <indexterm><primary>Dandelion</primary><secondary>fight, nn</secondary></indexterm>
       <para>The rabbits group after midnight: Bigwig, Fiver, Pipkin, Hawkbit, Dandelion, Blackberry, Buckthorn, Speedwell, Acorn and Silver. Captain Holly attempts to stop them and there is a fight.</para>
     </chapter>
 
     <chapter xml:id="into-the-woods">
       <info>
-        <title>Into the Woods<indexterm>
-            <primary><citetitle>Into the Woods (chapter)</citetitle>, 28-33</primary></indexterm>
-        </title>
+        <title>Into the Woods<indexterm><primary><citetitle>Into the Woods (chapter)</citetitle>, 28-33</primary></indexterm></title>
+      </info>
 	<indexterm><primary><personname>Lockley, R.M.</personname>, 28</primary></indexterm>
 	<indexterm><primary><citetitle>The Private Life of the Rabbit</citetitle>, 28</primary></indexterm>
 
-      </info>
     </chapter>
 
     <chapter xml:id="the-story-of-el-ahrairah">
       <info>
-        <title>The Story of the Blessing of El-ahrairah<indexterm>
-            <primary><citetitle>The Story of the Blessing of El-ahrairah
-              (chapter)</citetitle></primary>
-          </indexterm>
+        <title>The Story of the Blessing of El-ahrairah<indexterm><primary><citetitle>The Story of the Blessing of El-ahrairah (chapter)</citetitle></primary></indexterm>
         </title>
 
       </info>
@@ -536,19 +529,19 @@
         <title>Kehaar<indexterm>
             <primary><citetitle>Kehaar (chapter)</citetitle></primary>
           </indexterm>
+        </title>
+      </info>
           <indexterm>
             <primary>swearing</primary>
             <secondary><quote>Piss off!</quote></secondary>
-            <tertiary>100</tertiary>
+            <tertiary>nnn</tertiary>
           </indexterm>
           <indexterm>
             <primary><quote>Piss off!</quote></primary>
-            <secondary>100</secondary>
+            <secondary>nnn</secondary>
           </indexterm>
-        </title>
 
-      </info>
-      <para><glossterm>Kehaar</glossterm> says <quote>Piss off!</quote>.</para>
+      <para>Kehaar says <quote>Piss off!</quote>.</para>
     </chapter>
 
     <chapter xml:id="nuthanger-farm">
@@ -773,13 +766,10 @@
     <chapter xml:id="the-story-of-rowsby-woof-and-fairy-wogdog">
       <info>
         <title>The Story of Rowsby Woof and Fairy Wogdog<indexterm>
-            <primary><citetitle>The Story of Rowsby Woof and Fairy Wogdog
-              (chapter)</citetitle></primary>
-          </indexterm>
-          <indexterm><primary>Rowsby Woof</primary></indexterm>
-          <indexterm><primary>Fairy Wogdog</primary></indexterm>
-        </title>
-
+            <primary><citetitle>The Story of Rowsby Woof and Fairy Wogdog (chapter)</citetitle></primary></indexterm>
+</title>
+        <indexterm><primary>Rowsby Woof</primary></indexterm>
+        <indexterm><primary>Fairy Wogdog</primary></indexterm>
       </info>
       <para>HERE</para>
     </chapter>
