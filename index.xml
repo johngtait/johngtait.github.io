@@ -94,7 +94,7 @@
 	      <para>The <link xlink:href="http://docbook.org/"><package>DocBook 5</package></link> source
             is <link
               xlink:href="https://github.com/johngtait/johngtait.github.io/blob/master/index.xml"
-              >here on <package>GitHub</package></link>. Up to chapter 4</para>
+              >here on <package>GitHub</package></link>. Up to chapter 5</para>
         </revdescription>
       </revision>
     </revhistory>
@@ -133,7 +133,13 @@
       <glossterm><foreignphrase>Dea ex Machina</foreignphrase></glossterm>
       <glossdef><para>goddess in the machine (Latin)</para></glossdef>
     </glossentry>
- 
+
+
+    <glossentry>
+      <glossterm><foreignphrase>El-ahrairah</foreignphrase></glossterm>
+      <glossdef><para>The Prince with a Thousand Enemies (name of rabbit folk hero)</para></glossdef>
+    </glossentry>
+    
     <glossentry>
       <glossterm><foreignphrase>elil</foreignphrase></glossterm>
       <glossdef><para>enemies</para></glossdef>
@@ -147,7 +153,7 @@
     
         <glossentry>
       <glossterm><foreignphrase>Frithrah!</foreignphrase></glossterm>
-      <glossdef><para>exclamation. Likely to be 'God!'</para></glossdef>
+      <glossdef><para>Lord God! (exclamation)</para></glossdef>
     </glossentry>
 
     <glossentry>
@@ -162,7 +168,7 @@
 
            <glossentry>
       <glossterm><foreignphrase>Hrairoo</foreignphrase></glossterm>
-      <glossdef><para>Little Thousand (name of Fiver in Lapine)</para></glossdef>
+      <glossdef><para>little thousand (name of Fiver in Lapine)</para></glossdef>
        </glossentry>
 
     
@@ -188,10 +194,14 @@
       <glossdef><para>strong or clever rabbits surrounding the Chief Rabbit</para></glossdef>
     </glossentry>
     
+      <glossentry>
+      <glossterm><foreignphrase>tharn</foreignphrase></glossterm>
+      <glossdef><para>state of staring, glazed paralysis that comes over terrified or exhausted rabbits</para></glossdef>
+      </glossentry>
     
       <glossentry>
       <glossterm><foreignphrase>Thlayli</foreignphrase></glossterm>
-      <glossdef><para>Furhead (name of Bigwig in Lapine)</para></glossdef>
+      <glossdef><para>furhead (name of Bigwig in Lapine)</para></glossdef>
       </glossentry>
 
     
@@ -322,10 +332,10 @@
 	    <indexterm><primary>Silver</primary><secondary>introduction to, 25</secondary></indexterm>
 	    <indexterm><primary>Captain Holly</primary><secondary>introduction to, 26</secondary></indexterm>
 	    <indexterm><primary>fight</primary><secondary>Sandleford, departing (Captain Holly, Bigwig, Buckthorn, Dandelion), 26-27</secondary></indexterm>
-      <indexterm><primary>Captain Holly</primary><secondary>fight, nn</secondary></indexterm>
-      <indexterm><primary>Buckthorn</primary><secondary>fight, nn</secondary></indexterm>
-      <indexterm><primary>Bigwig</primary><secondary>fight, nn</secondary></indexterm>
-      <indexterm><primary>Dandelion</primary><secondary>fight, nn</secondary></indexterm>
+      <indexterm><primary>Captain Holly</primary><secondary>fight, 26-27</secondary></indexterm>
+      <indexterm><primary>Buckthorn</primary><secondary>fight, 26-27</secondary></indexterm>
+      <indexterm><primary>Bigwig</primary><secondary>fight, 26-27</secondary></indexterm>
+      <indexterm><primary>Dandelion</primary><secondary>fight, 27</secondary></indexterm>
       <para>The rabbits group after midnight: Bigwig, Fiver, Pipkin, Hawkbit, Dandelion, Blackberry, Buckthorn, Speedwell, Acorn and Silver. Captain Holly attempts to stop them and there is a fight.</para>
     </chapter>
 
@@ -335,7 +345,22 @@
       </info>
 	<indexterm><primary><personname>Lockley, R.M.</personname>, 28</primary></indexterm>
 	<indexterm><primary><citetitle>The Private Life of the Rabbit</citetitle>, 28</primary></indexterm>
-
+	<indexterm><primary>woodland</primary><secondary>rabbit behaviour in, 28</secondary></indexterm>
+	<indexterm><primary>rabbit behaviour</primary><secondary>in woodland, 28</secondary></indexterm>
+	<indexterm><primary>woods, 28-33</primary></indexterm>
+	<indexterm><primary>unknown, the</primary><secondary>rabbit behaviour to, 29</secondary></indexterm>
+	<indexterm><primary>rabbit behaviour</primary><secondary>unknown, response to, 29</secondary></indexterm>
+        <indexterm><primary>rabbit behaviour</primary><secondary>movement, 31-32</secondary></indexterm>
+	<indexterm><primary>movement, rabbit, 31-32</primary></indexterm>
+	<indexterm><primary>El-ahrairah</primary><secondary>pronounciation, 30 (footnote)</secondary></indexterm>
+	<indexterm><primary>El-ahrairah</primary><secondary>first mention, 30-31</secondary></indexterm>
+	<indexterm><primary>El-ahrairah</primary><secondary>story of the pike, 31</secondary></indexterm>
+	<indexterm><primary>story</primary><secondary>El-ahrairah and the pike, 31</secondary></indexterm>
+	<indexterm><primary><glossterm>tharn</glossterm></primary><secondary>defined, 32</secondary></indexterm>
+	<indexterm><primary>Dandelion</primary><secondary>story, begins, 33</secondary></indexterm>
+	<indexterm><primary>Dandelion</primary><secondary>speed, 30</secondary></indexterm>
+	
+	<para>The rabbits enter a wood and rest. Dandelion begins a story.</para>
     </chapter>
 
     <chapter xml:id="the-story-of-el-ahrairah">
@@ -531,17 +556,15 @@
           </indexterm>
         </title>
       </info>
-          <indexterm>
-            <primary>swearing</primary>
-            <secondary><quote>Piss off!</quote></secondary>
-            <tertiary>nnn</tertiary>
-          </indexterm>
-          <indexterm>
-            <primary><quote>Piss off!</quote></primary>
-            <secondary>nnn</secondary>
-          </indexterm>
+      <indexterm>
+        <primary>swearing</primary>
+        <secondary><quote>Piss off!</quote>, 239</secondary>
+      </indexterm>
+      <indexterm>
+        <primary><quote>Piss off! (Keehar)</quote>, 236</primary>
+      </indexterm>
 
-      <para>Kehaar says <quote>Piss off!</quote>.</para>
+      <para>Kehaar s</para>
     </chapter>
 
     <chapter xml:id="nuthanger-farm">
