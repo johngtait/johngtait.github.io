@@ -2,7 +2,7 @@
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbookxi.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-  <!-- ===================== THIS IS A DRAFT DOCBOOK DOCUMENT ====================== -->
+<!-- ===================== THIS IS A DRAFT DOCBOOK DOCUMENT ====================== -->
 
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
   xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" xml:id="watership-down-johngtait" status="draft">
@@ -359,26 +359,39 @@
 	<indexterm><primary><glossterm>tharn</glossterm></primary><secondary>defined, 32</secondary></indexterm>
 	<indexterm><primary>Dandelion</primary><secondary>story, begins, 33</secondary></indexterm>
 	<indexterm><primary>Dandelion</primary><secondary>speed, 30</secondary></indexterm>
-	
 	<para>The rabbits enter a wood and rest. Dandelion begins a story.</para>
     </chapter>
+    
 
     <chapter xml:id="the-story-of-el-ahrairah">
       <info>
-        <title>The Story of the Blessing of El-ahrairah<indexterm><primary><citetitle>The Story of the Blessing of El-ahrairah (chapter)</citetitle></primary></indexterm>
-        </title>
-
+        <title>The Story of the Blessing of El-ahrairah<indexterm><primary><citetitle>The Story of the Blessing of El-ahrairah (chapter)</citetitle></primary></indexterm></title>
       </info>
+      	<indexterm><primary><personname>Yeats, W.B.</personname>, 34</primary></indexterm>
+	<indexterm><primary><citetitle>A Woman Young and Old</citetitle>, 34</primary></indexterm>
+	<indexterm><primary>Frith</primary><secondary>introduction to, 34</secondary></indexterm>
+	<indexterm><primary>creation</primary><secondary>rabbit myth, 34-38</secondary></indexterm>
+	<indexterm><primary>myth</primary><secondary>creation, 34-38</secondary></indexterm>
+	<indexterm><primary>Dandelion</primary><secondary>story</secondary><tertiary><citetitle>The Story of the Blessing of El-ahrairah, 34-38</citetitle></tertiary></indexterm>
+	<indexterm><primary>El-ahrairah</primary><secondary>wives, 35</secondary></indexterm>
+	<indexterm><primary>El-ahrairah</primary><secondary>boasting, 35</secondary></indexterm>
+	<indexterm><primary>Frith</primary><secondary>warning El-ahrairah, 35</secondary></indexterm>
+	<indexterm><primary>Frith</primary><secondary>presents to the animals, 35-38</secondary></indexterm>
+	<indexterm><primary>Frith</primary><secondary>blessing El-ahrairah's bottom, 37-38</secondary></indexterm>
+	<indexterm><primary>Frith</primary><secondary>bestowing El-ahrairah 'Prince with a Thousand Enemies', 35</secondary></indexterm>
+	<indexterm><primary>Prince with a Thousand Enemies</primary><secondary>Frith bestows El-ahrairah, 38</secondary></indexterm>
+
     </chapter>
 
     <chapter xml:id="the-lendri-and-the-river">
       <info>
-        <title>The Lendri and the River<indexterm>
-            <primary><citetitle>The Lendri and the River (chapter)</citetitle></primary>
-          </indexterm>
-        </title>
-
+        <title>The Lendri and the River<indexterm><primary><citetitle>The Lendri and the River (chapter)</citetitle></primary></indexterm></title>
       </info>
+	      	<indexterm><primary><personname>Bonaparte, Napoleon</personname>, 39</primary></indexterm>
+      		<indexterm><primary>Acorn</primary><secondary>smelling dog</secondary></indexterm>
+		<indexterm><primary>dog</primary><secondary>wood, in, 39-40</secondary></indexterm>
+
+
     </chapter>
 
     <chapter xml:id="the-crossing">
