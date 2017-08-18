@@ -324,7 +324,7 @@
 	    <indexterm><primary>time</primary><secondary>rabbit concept of, 21</secondary></indexterm>
 	    <indexterm><primary>Pipkin</primary><secondary>introduction to, 22</secondary></indexterm>
 	    <indexterm><primary>Pipkin</primary><secondary>name in Lapine (<glossterm><foreignphrase>Hlao</foreignphrase></glossterm>), 22</secondary></indexterm>
-	    <indexterm><primary><foreignphrase>Hlao</foreignphrase></primary></indexterm>
+	    <indexterm><primary><foreignphrase>Hlao</foreignphrase>, 22</primary></indexterm>
       <indexterm><primary>Hawkbit</primary><secondary>introduction to, 23</secondary></indexterm>
    	  <indexterm><primary>Buckthorn</primary><secondary>introduction to, 24</secondary></indexterm>
 	    <indexterm><primary>Speedwell</primary><secondary>introduction to, 24</secondary></indexterm>
@@ -373,6 +373,7 @@
 	<indexterm><primary>creation</primary><secondary>rabbit myth, 34-38</secondary></indexterm>
 	<indexterm><primary>myth</primary><secondary>creation, 34-38</secondary></indexterm>
 	<indexterm><primary>Dandelion</primary><secondary>story</secondary><tertiary><citetitle>The Story of the Blessing of El-ahrairah, 34-38</citetitle></tertiary></indexterm>
+		<indexterm><primary>story</primary><secondary><citetitle>The Story of the Blessing of El-ahrairah, 34-38</citetitle></secondary></indexterm>
 	<indexterm><primary>El-ahrairah</primary><secondary>wives, 35</secondary></indexterm>
 	<indexterm><primary>El-ahrairah</primary><secondary>boasting, 35</secondary></indexterm>
 	<indexterm><primary>Frith</primary><secondary>warning El-ahrairah, 35</secondary></indexterm>
@@ -380,9 +381,9 @@
 	<indexterm><primary>Frith</primary><secondary>blessing El-ahrairah's bottom, 37-38</secondary></indexterm>
 	<indexterm><primary>Frith</primary><secondary>bestowing El-ahrairah 'Prince with a Thousand Enemies', 35</secondary></indexterm>
 	<indexterm><primary>Prince with a Thousand Enemies</primary><secondary>Frith bestows El-ahrairah, 38</secondary></indexterm>
-
+	<para>Dandelion tells the story of how Frith blessed El-ahrairah's bottom with 'strength and warning and speed'.</para>
     </chapter>
-
+    
     <chapter xml:id="the-lendri-and-the-river">
       <info>
         <title>The Lendri and the River<indexterm><primary><citetitle>The Lendri and the River (chapter)</citetitle></primary></indexterm></title>

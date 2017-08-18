@@ -1,0 +1,209 @@
+#+TITLE: WATERSHIP DOWN INDEX & GLOSSARY
+#+OPTIONS: num:nil toc:nil
+#+LaTeX_CLASS_OPTIONS: [mathptmx,a5paper,10pt,microtype,paralist]
+#+DESCRIPTION: Watership Down index and glossary
+#+AUTHOR: John Tait
+
+#+BEGIN_HTML
+
+<style>body{text-align:center;margin:20px;font-family:consolas,Menlo-Regular,Menlo,Monaco,monospace;font-size:125%;line-height:135%} a {color:blue;text-decoration:none;} .title{font-size:200%;color:crimson;} body{margin:0 auto;text-align:left;max-width:768px;width:100%;padding:10px;box-sizing:border-box,font-size:100%;} @media (max-width: 480px)</style>
+
+#+END_HTML 
+
+*by John Tait*
+
+A supplement to the classic rabbit epic Watership Down by the late Richard Adams: a full index to the print version and a glossary.
+
+Watership Down is the best book in the whole world. It was the basis for a smash hit 1978 film of the same name. I'm still recovering from that experience, as we all are.
+
+Watership Down is © 1972 Richard Adams.
+
+Comments welcome: [[mailto:johngtait@gmail.com][johngtait@gmail.com]]. Please write and say hello if you like this.
+
+----------------
+
+* Glossary of Lapine (rabbit language) and other terms
+
+From the book, or paraphrased from the book.
+
+
+- Dea ex Machina :: goddess in the machine (Latin)
+- /elil/ :: enemies
+- /fu Inle/ :: after moonrise
+- /Frithrah!/ :: exclamation. Likely to be 'God!'
+- /Hlao/ :: any small concavity in the grass where moisture may collect (name of Pipkin in Lapine)
+- /Hrair/ :: a lot
+- /Hrairoo/ :: Little Thousand (name of Fiver in Lapine)
+- /hrududu/ :: motor vehicle
+- /ni-Frith/ :: noon
+- outskirter :: rank-and-file ordinary rabbit
+- /Owsla/ :: strong or clever rabbits surrounding the Chief Rabbit
+- /Thlayli/ :: Furhead (name of Bigwig in Lapine)
+- /Threarah/ :: Lord Rowan Tree (name of Chief Rabbit of Sandleford in Lapine)
+- /U Hrair/ :: The Thousand ('All the enemies' in Lapine)
+
+----------------
+
+* Index to the print version
+
+Page numbers are from 2014 Puffin edition.
+
+#+BEGIN_VERSE
+*A*
+/A Woman Young and Old/, 34
+Acorn
+   introduction to, 24
+Aeschylus, 3
+/Agamemnom/, 3
+
+*B*
+Bigwig
+   fight, 26--27
+   introduction to, 13
+   left Owsla, 18
+   name in Lapine (/Thlayli/), 13
+Blackberry
+      introduction to, 5 (unnamed, rabbit with black-tipped ears), 17 (named)
+Buckthorn
+   fight, 26--27
+   introduction to, 24
+burnet leaf, 20
+
+*C*
+Capt. Holly
+   fight, 26--27
+   first mention, 17
+   introduction to, 26
+Chief Rabbit of Sandleford
+   introduction to, 14
+   name in Lapine (/Threarah/), 13
+   reluctance to leave Sandleford, 15-16
+   response to myxomatosis in Sandleford, 14
+counting, rabbit concept of, 5
+cowslip (flower), 6
+creation, rabbit myth, 34--38
+
+*D*
+Dandelion
+   fight, 27
+   introduction to, 17
+   speed, 30
+   stories, /see/ stories
+dog's mercury, 18
+
+*E*
+El-ahrairah
+   boasting, 35
+   first mention of, 30--31
+   pronounciation, 30 (footnote)
+   stories, /see/ stories
+   wives, 35
+/elil/, defined, 5 (footnote)
+
+*F*
+fight
+   Sandleford, departing (Capt. Holly, Bigwig, Buckthorn, Dandelion), 26--27
+Fiver
+   dream about water, 11--12
+   introduction to, 5
+   name in Lapine (/Hrairoo/), 5 (footnote)
+   visions, 7--8,12,16
+Frith
+   bestowing El-ahrairah 'Prince with a Thousand Enemies', 35
+   blessing El-ahrairah's bottom, 37--38
+   introduction to, 34
+   presents to the animals, 35--38
+   warning El-ahrairah, 35
+/Frithrah!/ (exclamation), 19
+/fu Inle/
+   defined, 20
+   first mention, 19
+
+*H*
+Hamlet, 21
+Hawkbit
+   introduction to, 23
+Hazel
+   introduction to, 4
+/Hlao/, defined, 22
+Holly (rabbit), /see/ Capt. Holly
+/Hrair/, defined, 5 (footnote)
+/Hrairoo/, defined, 5 (footnote)
+
+*L*
+Lockley, R.M., 28
+
+*M*
+movement, rabbit, 31--32
+myth, creation, 34--38
+myxomatosis
+   in Sandleford, 14
+
+*N*
+/ni-Frith/, defined, 12
+notice board of development of Sandleford, 10,17
+
+*O*
+outskirter, defined, 4
+/Owsla/
+   defined, 6--7 (footnote)
+
+*P*
+Pipkin
+   introduction to, 22
+   name in Lapine (/Hlao/), 22
+"Piss off!", 239
+Prince with a Thousand Enemies, Frith bestows El-ahrairah, 38
+
+*R*
+rabbit behaviour
+   movement, 31--32
+   unknown, response to, 29
+   woodland, in, 28
+
+*S*
+Sandleford
+   development of, 10
+   first mention of, 7 (footnote)
+   myxomatosis in, 14
+   plan to leave, 19
+Shakespeare, 21
+Silver
+   introduction to, 25
+Speedwell
+   introduction to, 24
+stories
+   Dandelion begins telling, 33
+   El-ahrairah and the pike, 31
+   /The Story of the Blessing of El-ahrairah/, 34--38
+swearing
+    "Piss off!", 239
+
+*T*
+/The Anabasis/, 17
+/The Private Life of the Rabbit/, 28
+/The World/, 11
+/Thlayli/, 13
+/Threarah/, 13
+time, rabbit concept of, 21
+Toadflax
+   introduction to, 6
+
+*U*
+/U Hrair/, defined, 5 (footnote)
+unknown, rabbit behaviour is reponse to, 29
+
+*V*
+Vaughan, Henry, 11
+
+*W*
+woods, 28--33
+
+*X*
+Xenophon, 172
+
+*Y*
+Yeats, W.B., 34
+#+END_VERSE 
+
+
