@@ -1,6 +1,6 @@
 #+TITLE: WATERSHIP DOWN INDEX & GLOSSARY
 #+OPTIONS: num:nil toc:nil
-#+LaTeX_CLASS_OPTIONS: [mathptmx,a5paper,10pt,microtype,paralist]
+#+LaTeX_CLASS_OPTIONS: [mathptmx,a4paper,10pt,microtype,paralist,twocolumn]
 #+DESCRIPTION: Watership Down index and glossary
 #+AUTHOR: John Tait
 
@@ -12,35 +12,50 @@
 
 *by John Tait*
 
-A supplement to the classic rabbit epic Watership Down by the late Richard Adams: a full index to the print version and a glossary.
+A supplement to the classic rabbit epic /Watership Down/ by the late Richard Adams: a full index to the print version and a glossary.
 
-Watership Down is the best book in the whole world. It was the basis for a smash hit 1978 film of the same name. I'm still recovering from that experience, as we all are.
+/Watership Down/ is the best book in the whole world. It was the basis for a smash hit 1978 film of the same name. I'm still recovering from that experience, as we all are.
 
-Watership Down is © 1972 Richard Adams.
+/Watership Down/ © 1972 Richard Adams.
 
 Comments welcome: [[mailto:johngtait@gmail.com][johngtait@gmail.com]]. Please write and say hello if you like this.
+
+----------
+#+BEGIN_CENTER
+This is a work in progress. It isn't finished.
+#+END_CENTER
+
+
 
 ----------------
 
 * Glossary of Lapine (rabbit language) and other terms
 
-From the book, or paraphrased from the book.
+From the book, or paraphrased from the book. Lapine terms are capitialized when used as a rabbit name, and are in italics.
 
 
 - Dea ex Machina :: goddess in the machine (Latin)
 - /elil/ :: enemies
-- /fu Inle/ :: after moonrise
-- /Frithrah!/ :: exclamation. Likely to be 'God!'
+- /embleer/ :: stinking, smell of fox
+- /fu Inl\eacute/ :: after moonrise
+- /Frith/ :: God, also the sun
+- /Frithrah!/ :: exclamation. Likely to be 'Lord God!'
 - /Hlao/ :: any small concavity in the grass where moisture may collect (name of Pipkin in Lapine)
+- /Hoi, Hoi u embleer Hrair, M' saigon ul\eacute hraka vair/ :: Hoi, Hoi, the stinking Thousand, We meet them even when we stop to pass our droppings
 - /Hrair/ :: a lot
 - /Hrairoo/ :: Little Thousand (name of Fiver in Lapine)
-- /hrududu/ :: motor vehicle
+- /hraka/ :: droppings
+- /hrududu/ :: motor vehicle (pl: /hrududil/)
+- /lendri/ :: dog
 - /ni-Frith/ :: noon
 - outskirter :: rank-and-file ordinary rabbit
 - /Owsla/ :: strong or clever rabbits surrounding the Chief Rabbit
+- /-roo/ :: little (name suffix)
+- /tharn/ :: paralysis caused by fear and exhaustion 
 - /Thlayli/ :: Furhead (name of Bigwig in Lapine)
 - /Threarah/ :: Lord Rowan Tree (name of Chief Rabbit of Sandleford in Lapine)
 - /U Hrair/ :: The Thousand ('All the enemies' in Lapine)
+- /yona/ :: hedgehog (+pl: yonil+)
 
 ----------------
 
@@ -57,16 +72,24 @@ Aeschylus, 3
 /Agamemnom/, 3
 
 *B*
+beanfield, 57--88
+behaviour /see/ rabbit behaviour
 Bigwig
-   fight, 26--27
+   fight, 26--27,56
    introduction to, 13
    left Owsla, 18
    name in Lapine (/Thlayli/), 13
+   swimming, 46--47
 Blackberry
-      introduction to, 5 (unnamed, rabbit with black-tipped ears), 17 (named)
+   introduction to, 5 (unnamed, rabbit with black-tipped ears), 17 (named)
+   plan to cross Enbourne, 48--50
+blackbird song, 43
+Bonaparte, Napoleon, 39
+Browning, Robert, 52
 Buckthorn
    fight, 26--27
    introduction to, 24
+Bunyan, John, 59
 burnet leaf, 20
 
 *C*
@@ -77,11 +100,15 @@ Capt. Holly
 Chief Rabbit of Sandleford
    introduction to, 14
    name in Lapine (/Threarah/), 13
-   reluctance to leave Sandleford, 15-16
+   reluctance to leave Sandleford, 15--6
    response to myxomatosis in Sandleford, 14
 counting, rabbit concept of, 5
 cowslip (flower), 6
-creation, rabbit myth, 34--38
+Cottington's Clump, 68
+creation, rabbit myth, 34--8
+crow
+   attack, 55--6
+   'Not-hawk', 53
 
 *D*
 Dandelion
@@ -89,33 +116,47 @@ Dandelion
    introduction to, 17
    speed, 30
    stories, /see/ stories
+/De Gustibus/, 52
+dog
+   in wood, 39--40, 47
+   Sandleford, Owsla opinion of, 41--2
 dog's mercury, 18
 
 *E*
 El-ahrairah
    boasting, 35
    first mention of, 30--31
-   pronounciation, 30 (footnote)
+   pronounciation, 30
    stories, /see/ stories
    wives, 35
-/elil/, defined, 5 (footnote)
+/embleer/, defined, 46
+Enbourne (river)
+   crossing, 51--2
+   described, 40,44--5
+   plan to cross, 42,45
+/elil/, defined, 5
 
 *F*
+farmer
+   shooting, 60--61
 fight
+   crow (Bigwig), 56
    Sandleford, departing (Capt. Holly, Bigwig, Buckthorn, Dandelion), 26--27
 Fiver
-   dream about water, 11--12
+   dream about water, 11--2
    introduction to, 5
-   name in Lapine (/Hrairoo/), 5 (footnote)
-   visions, 7--8,12,16
+   name in Lapine (/Hrairoo/), 5
+   requirements for Watership Down, 45
+   visions, 7--8,12,16,69
 Frith
    bestowing El-ahrairah 'Prince with a Thousand Enemies', 35
-   blessing El-ahrairah's bottom, 37--38
+   blessing El-ahrairah's bottom, 37--8
    introduction to, 34
-   presents to the animals, 35--38
+   presents to the animals, 35--8
    warning El-ahrairah, 35
+Frith above! (exclamation), 58
 /Frithrah!/ (exclamation), 19
-/fu Inle/
+/fu Inl\eacute/
    defined, 20
    first mention, 19
 
@@ -123,53 +164,80 @@ Frith
 Hamlet, 21
 Hawkbit
    introduction to, 23
+   wants to return to Sandleford, 66--67
 Hazel
    introduction to, 4
+   leadership, 41,47
 /Hlao/, defined, 22
+high, lonely place with dry soil (Watership Down), 45
 Holly (rabbit), /see/ Capt. Holly
-/Hrair/, defined, 5 (footnote)
-/Hrairoo/, defined, 5 (footnote)
+/Hrair/, defined, 5
+/Hrairoo/, defined, 5
+/hraka/, defined (Owlsa lampoon), 56
+/hrududu/, defined, 55
 
 *L*
+lark, announcing morning, 42 
+/Le Morte d'Arthur/, 71
+/lendri/, first mention, 40
 Lockley, R.M., 28
 
 *M*
-movement, rabbit, 31--32
+Malory, 71
+martins, 44
+movement, rabbit, 31--2
 myth, creation, 34--38
 myxomatosis
    in Sandleford, 14
 
 *N*
-/ni-Frith/, defined, 12
+Newtown Common, 65
+/ni-Frith/
+   defined, 12
+   used, 46
 notice board of development of Sandleford, 10,17
 
 *O*
 outskirter, defined, 4
+owl, call, 65--66
 /Owsla/
-   defined, 6--7 (footnote)
-
+   defined, 6--7
+   lampoon, 56
+   teaching about /hrududil/, 64
 *P*
 Pipkin
+   crossing Enbourne, 49--50,58
+   injury, 32,40,46
    introduction to, 22
    name in Lapine (/Hlao/), 22
+   screaming, 54
 "Piss off!", 239
 Prince with a Thousand Enemies, Frith bestows El-ahrairah, 38
 
 *R*
 rabbit behaviour
-   movement, 31--32
+   counting, rabbit concept of, 5
+   disgust, 64
+   movement, 31--3
+   screaming, 5
+   swimming, 42
    unknown, response to, 29
+   time, rabbit concept of, 21,59
    woodland, in, 28
+rabbit feet, 58
+river /see/ Enbourne
+road, crossing, 62--3
 
 *S*
 Sandleford
    development of, 10
-   first mention of, 7 (footnote)
+   first mention of, 7
    myxomatosis in, 14
    plan to leave, 19
 Shakespeare, 21
 Silver
    introduction to, 25
+snake, 65
 Speedwell
    introduction to, 24
 stories
@@ -178,29 +246,39 @@ stories
    /The Story of the Blessing of El-ahrairah/, 34--38
 swearing
     "Piss off!", 239
+swimming
+   Bigwig, 46--7
+   rabbit ability, 42
 
 *T*
+/The Acts of the Apostles/, 44
 /The Anabasis/, 17
+/The Pilgrim's Progress/, 59
 /The Private Life of the Rabbit/, 28
 /The World/, 11
-/Thlayli/, 13
-/Threarah/, 13
-time, rabbit concept of, 21
+/tharn/, defined, 32
+/Thlayli/, defined, 13
+/Threarah/, defined, 13
+Thousand, dog member of, 42
+time, rabbit concept of, 21,59
 Toadflax
    introduction to, 6
 
 *U*
-/U Hrair/, defined, 5 (footnote)
+/U Hrair/, defined, 5
 unknown, rabbit behaviour is reponse to, 29
 
 *V*
 Vaughan, Henry, 11
 
 *W*
+Watership Down
+   description, 68
+   Fiver's requirements, 45,68
 woods, 28--33
 
 *X*
-Xenophon, 172
+Xenophon, 17
 
 *Y*
 Yeats, W.B., 34
