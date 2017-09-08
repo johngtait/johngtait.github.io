@@ -2,10 +2,9 @@
 #+AUTHOR: John Tait
 #+EMAIL: johngtait@gmail.com
 
-A fun indexing project using +DocBook 5+ Org-mode to make the Richard Adams' epic lapine novel /Watership Down/ accessible:
- - a *glossary* to explain characters, places, lapine language terms, mythical aspects, internal stories, and other concepts
- - +chapter *abstracts* to summarize the story, with links to the glossary+
- - a detailed *index* with
-   +- links to the chapter abstracts+
-   - pages numbers of the print edition.
+An indexing project using Org-mode to make the Richard Adams' epic lapine novel /Watership Down/ accessible:
+ - a detailed *index* with pages numbers of the print edition
+ - *glossary* of Lapine (rabbit language) and other terms.
+ 
+See it online [[https://johngtait.github.io/][here]].
 
