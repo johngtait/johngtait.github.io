@@ -16,13 +16,13 @@ A supplement to the classic rabbit epic /Watership Down/ by the late Richard Ada
 
 /Watership Down/ is the best book in the whole world. It was the basis for a smash hit 1978 film of the same name. I'm still recovering from that experience, as we all are.
 
-/Watership Down/ Â© 1972 Richard Adams.
+/Watership Down/ © 1972 Richard Adams.
 
 Comments welcome: [[mailto:johngtait@gmail.com][johngtait@gmail.com]]. Please write and say hello if you like this.
 
 ----------
 #+BEGIN_CENTER
-This is a work in progress. It isn't finished.
+This is a work in progress. It isn't finished. Up to p.123.
 #+END_CENTER
 
 
@@ -37,25 +37,31 @@ From the book, or paraphrased from the book. Lapine terms are capitialized when 
 - Dea ex Machina :: goddess in the machine (Latin)
 - /elil/ :: enemies
 - /embleer/ :: stinking, smell of fox
+- /flayrah/ :: appetizing food
 - /fu Inl\eacute/ :: after moonrise
 - /Frith/ :: God, also the sun
 - /Frithrah!/ :: exclamation. Likely to be 'Lord God!'
 - /Hlao/ :: any small concavity in the grass where moisture may collect (name of Pipkin in Lapine)
 - /Hoi, Hoi u embleer Hrair, M' saigon ul\eacute hraka vair/ :: Hoi, Hoi, the stinking Thousand, We meet them even when we stop to pass our droppings
+- /homba/ :: fox (pl: hombil)
 - /Hrair/ :: a lot
 - /Hrairoo/ :: Little Thousand (name of Fiver in Lapine)
 - /hraka/ :: droppings
 - /hrududu/ :: motor vehicle (pl: /hrududil/)
+- /Labernum/ :: Poison-tree (name of rabbit in Cowslip's Warren)
 - /lendri/ :: dog
 - /ni-Frith/ :: noon
+- /Nildro-Hain/ :: Song of the Blackbird (name of doe in Cowslip's Warren)
 - outskirter :: rank-and-file ordinary rabbit
 - /Owsla/ :: strong or clever rabbits surrounding the Chief Rabbit
 - /-roo/ :: little (name suffix)
+- /Sayn lay narn, marli?/ :: Is grounsel nice, mother? (muttered by Pipkin in sleep)
+- /silflay/ :: go above ground to feed
 - /tharn/ :: paralysis caused by fear and exhaustion 
 - /Thlayli/ :: Furhead (name of Bigwig in Lapine)
 - /Threarah/ :: Lord Rowan Tree (name of Chief Rabbit of Sandleford in Lapine)
 - /U Hrair/ :: The Thousand ('All the enemies' in Lapine)
-- /yona/ :: hedgehog (+pl: yonil+)
+- /yona/ :: hedgehog (pl: /yonil/)
 
 ----------------
 
@@ -74,8 +80,9 @@ Aeschylus, 3
 *B*
 beanfield, 57--88
 behaviour /see/ rabbit behaviour
+Betony, first mention of, 107
 Bigwig
-   fight, 26--27,56
+   fight, 26--27, 56
    introduction to, 13
    left Owsla, 18
    name in Lapine (/Thlayli/), 13
@@ -91,19 +98,34 @@ Buckthorn
    introduction to, 24
 Bunyan, John, 59
 burnet leaf, 20
+Butler, Matthew /see/ bottom of page
 
 *C*
 Capt. Holly
    fight, 26--27
    first mention, 17
    introduction to, 26
-Chief Rabbit of Sandleford
-   introduction to, 14
-   name in Lapine (/Threarah/), 13
-   reluctance to leave Sandleford, 15--6
-   response to myxomatosis in Sandleford, 14
+carrot
+   tasting (Hazel), 113
+Chief Rabbit
+   Cowslip's Warren, lack of, 99--100
+   Sandleford, of
+      introduction to, 14
+      name in Lapine (/Threarah/), 13
+      reluctance to leave Sandleford, 15--6
+      response to myxomatosis in Sandleford, 14
+   Watership Down, of (Hazel-rah)
+      first mention regarding, 76
 counting, rabbit concept of, 5
+/Cosi fan tutte/, 123
 cowslip (flower), 6
+Cowslip
+   evasive, 114--5, 120
+   first mention of, 82
+   introduced himself, 86
+   laughter, 106
+Cowslips's Warren
+   description, 95--96, 117
 Cottington's Clump, 68
 creation, rabbit myth, 34--8
 crow
@@ -117,23 +139,30 @@ Dandelion
    speed, 30
    stories, /see/ stories
 /De Gustibus/, 52
+de la Mare, Walter, first pages
+de Ponte, Lorenzo, 123
+doe
+   admiration (/Nildro-hain/), 105
 dog
    in wood, 39--40, 47
    Sandleford, Owsla opinion of, 41--2
 dog's mercury, 18
 
 *E*
+Earl of Chesterfield, the, 105
 El-ahrairah
    boasting, 35
+   exclamation, as, 92
    first mention of, 30--31
    pronounciation, 30
+   stones mystery (Cowslip's Warren), 102--103
    stories, /see/ stories
    wives, 35
 /embleer/, defined, 46
 Enbourne (river)
    crossing, 51--2
-   described, 40,44--5
-   plan to cross, 42,45
+   described, 40, 44--5
+   plan to cross, 42, 45
 /elil/, defined, 5
 
 *F*
@@ -147,7 +176,11 @@ Fiver
    introduction to, 5
    name in Lapine (/Hrairoo/), 5
    requirements for Watership Down, 45
-   visions, 7--8,12,16,69
+   visions and premonitions, 7--8, 12, 16, 69, 90, 99, 116--8
+/flayrah/
+   defined, 112
+   first mentioned, 109
+fox
 Frith
    bestowing El-ahrairah 'Prince with a Thousand Enemies', 35
    blessing El-ahrairah's bottom, 37--8
@@ -155,6 +188,7 @@ Frith
    presents to the animals, 35--8
    warning El-ahrairah, 35
 Frith above! (exclamation), 58
+Frith in a fog! (exclamation), 72
 /Frithrah!/ (exclamation), 19
 /fu Inl\eacute/
    defined, 20
@@ -166,27 +200,46 @@ Hawkbit
    introduction to, 23
    wants to return to Sandleford, 66--67
 Hazel
+   dream, 109
    introduction to, 4
-   leadership, 41,47
-/Hlao/, defined, 22
+   leadership, 41, 47, 71--72, 76, 96
+Hazel-rah, first mention, 76
+/Hlao/, defined (name of Pipkin in Lapine), 22
+/Hlao-roo/, diminutive form of Pipkin's name, first mentioned, 108
 high, lonely place with dry soil (Watership Down), 45
 Holly (rabbit), /see/ Capt. Holly
+/homba/ (fox)
+   /see also/ fox
+   first mention, 100 
 /Hrair/, defined, 5
 /Hrairoo/, defined, 5
-/hraka/, defined (Owlsa lampoon), 56
+/hraka/
+   defined (Owlsa lampoon), 56
+   passing, 113
 /hrududu/, defined, 55
 
 *L*
-lark, announcing morning, 42 
+Labernum (rabbit mentioned in Cowslip's Warren), 102
+lark, announcing morning, 42
+laughter, unknown to rabbits, 106
 /Le Morte d'Arthur/, 71
 /lendri/, first mention, 40
-Lockley, R.M., 28
+/Letters to the Sun/, 105
+Lockley, R.M., 28, 77
+
+*K*
+Kelfazin, marshes /see/ stories
+Kingcup (rabbit), first mentioned (missing, called by Strawberry), 103--4
 
 *M*
 Malory, 71
+man
+   smell, 109
 martins, 44
 movement, rabbit, 31--2
-myth, creation, 34--38
+myth
+   creation, 34--38
+   El-ahrairah, Shape (Cowslip's Warren), 102--3, 105
 myxomatosis
    in Sandleford, 14
 
@@ -194,35 +247,52 @@ myxomatosis
 Newtown Common, 65
 /ni-Frith/
    defined, 12
-   used, 46
-notice board of development of Sandleford, 10,17
+   used, 46, 82
+/Nildro-Hain/ (doe)
+   admired, 105
+   introduced, doe of Strawberry, 100
+notice board of development of Sandleford, 10, 17
 
 *O*
 outskirter, defined, 4
-owl, call, 65--66
+owl, 73
+   call, 65--66
 /Owsla/
    defined, 6--7
    lampoon, 56
    teaching about /hrududil/, 64
 *P*
 Pipkin
-   crossing Enbourne, 49--50,58
-   injury, 32,40,46
+   crossing Enbourne, 49--50, 58
+   injury, 32, 40, 46
    introduction to, 22
    name in Lapine (/Hlao/), 22
    screaming, 54
 "Piss off!", 239
 Prince with a Thousand Enemies, Frith bestows El-ahrairah, 38
+Prince Rainbow /see/ stories
 
 *R*
 rabbit behaviour
+   digging, 81--82
+   carrying food, 114--5
+   cleaning wounds, 58, 72
+   conventions and formalities, 98--9
    counting, rabbit concept of, 5
+   dancing (Cowslips's Warren), 94
    disgust, 64
+   fools, 90
+   formal gestures (usual lack of), 94
+   laughter, unknown to rabbits, 106
    movement, 31--3
+   senses, underground, 96
    screaming, 5
+   smell, 88
+   sniffing during greeting, 83--4, 94
+   stamping, 82, 109--110
    swimming, 42
    unknown, response to, 29
-   time, rabbit concept of, 21,59
+   time, rabbit concept of, 21, 59
    woodland, in, 28
 rabbit feet, 58
 river /see/ Enbourne
@@ -234,35 +304,56 @@ Sandleford
    first mention of, 7
    myxomatosis in, 14
    plan to leave, 19
+"/Sayn lay narn, marli?/", 109
+sayings, rabbit
+   "If you were a horse the ceiling would fall down", 110
+   "In the warren, more stories than passages", 121
 Shakespeare, 21
+Shape, 102--3, 105
+/silflay/, first mention of, 106
 Silver
    introduction to, 25
 snake, 65
+snare, 119, 
 Speedwell
    introduction to, 24
 stories
    Dandelion begins telling, 33
    El-ahrairah and the pike, 31
+   Kelfazin, marshes, 123
+   Prince Rainbow
+      first mentioned, 123
    /The Story of the Blessing of El-ahrairah/, 34--38
+   /The Story of the King's Lettuce/
+      mentioned in Cowslip's Warren, 102--3
+      told, 123--131
+Strawberry
+    introduction to, 100
+    tells Stones mystery, 102--3
+    Hazel admires, 110
 swearing
-    "Piss off!", 239
+    for Frith's sake, 91
+    Piss off!, 239
 swimming
    Bigwig, 46--7
    rabbit ability, 42
 
 *T*
+Tennyson, 93
 /The Acts of the Apostles/, 44
 /The Anabasis/, 17
+/The Lotus Eaters/, 93
 /The Pilgrim's Progress/, 59
-/The Private Life of the Rabbit/, 28
+/The Private Life of the Rabbit/, 28, 77
 /The World/, 11
 /tharn/, defined, 32
 /Thlayli/, defined, 13
 /Threarah/, defined, 13
 Thousand, dog member of, 42
-time, rabbit concept of, 21,59
+time, rabbit concept of, 21, 59
 Toadflax
    introduction to, 6
+trees in November, like (Pipkin, Cowslip Warren rabbits), 107
 
 *U*
 /U Hrair/, defined, 5
@@ -272,9 +363,10 @@ unknown, rabbit behaviour is reponse to, 29
 Vaughan, Henry, 11
 
 *W*
+warren, description of old warren, 88
 Watership Down
-   description, 68
-   Fiver's requirements, 45,68
+   description, 68, 74
+   Fiver's requirements, 45, 68
 woods, 28--33
 
 *X*
@@ -283,5 +375,11 @@ Xenophon, 17
 *Y*
 Yeats, W.B., 34
 #+END_VERSE 
+
+#+BEGIN_HTML
+<center>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/elkCXVp_BqU" frameborder="0" allowfullscreen></iframe>
+</center>
+#+END_HTML
 
 
