@@ -7,43 +7,58 @@
 #+DESCRIPTION: Watership Down index, index to Watership Down, Watership Down glossary
 #+AUTHOR: John Tait
 
-#+BEGIN_HTML
+
+#+BEGIN_EXPORT html
 
 <style>body{text-align:center;margin:20px;font-family:consolas,Menlo-Regular,Menlo,Monaco,monospace;font-size:125%;line-height:135%} a {color:blue;text-decoration:none;} .title{font-size:200%;color:crimson;} body{margin:0 auto;text-align:left;max-width:768px;width:100%;padding:10px;box-sizing:border-box,font-size:100%;} @media (max-width: 480px)</style>
 
-#+END_HTML 
+#+END_EXPORT
 
 #+BEGIN_ABSTRACT
-A supplement to the classic rabbit epic [[https://en.wikipedia.org/wiki/Watership_Down][/Watership Down/]] by the late Richard Adams: a full index to the print version. Page numbers are from 2014 Puffin edition. /Up to p.211/.
+/To p.577. Work in progress./
 
-/Watership Down/ © 1972 Richard Adams. This index © 2017 John Tait [[mailto:johngtait@gmail.com][johngtait@gmail.com]].
+A supplement to the classic rabbit epic [[https://en.wikipedia.org/wiki/Watership_Down][/Watership Down/]] by the late Richard Adams: a full index to the print version. Page numbers are from the 2014 Puffin edition. /Watership Down/ \copy 1972 Richard Adams. This index \copy 2025 John Tait [[mailto:johngtait@gmail.com][johngtait@gmail.com]].
 ------------------------------------------------------
 #+END_ABSTRACT
 
 #+BEGIN_VERSE
 *A*
 /A Woman Young and Old/, 34
-Acorn, introduction to, 24
+Acorn
+   insect catching, 246
+   introduction to, 24
 Aeschylus, 3
 /Agamemnom/, 3
+American Folk Song, 477
 Ash (rabbit), first mention, 205
 Auden, W.H., 139, 197
+Avens (Efrafan rabbit), first mention, 431
 
 *B*
 badger (/lendri/), 39--42
+Bartsia (Efrafan rabbit), 447
 beanfield, 57--88
 behaviour /see/ rabbit behaviour
 Betony, first mention of, 107
+Big Water /see/ Kehaar
 Bigwig
-  fight, 26--27, 56
+  digging, reluctance to, 237--238
+  fight, 26--27, 56, 457
   introduction to, 13
+  joining Efrafa, 404
   left Owsla, 18
   name in Lapine (/Thlayli/), 13
-  snare, caught in, 144--8
+  snare, caught in, 144--148
   strength, 161
   swimming, 46--47
-Black Rabbit of Inl\eacute,
-  first mention, 180
+  wants family, 256
+bird, plan (/see also Kehaar/), 214
+Black Rabbit of Inl\eacute, 180, 351, 504
+  see also /stories/
+Blackavar
+  first mention, 308
+  first seen, 412
+  history, 497
 Blackberry
   introduction to (unnamed, with black-tipped ears), 5
   named, 17
@@ -51,9 +66,17 @@ Blackberry
   wits, 161
 blackbird song, 43
 Blake, William, 159
-Bluebell, with Captain Holly, 185
+Bluebell
+  introduction, with Captain Holly, 185
+  joker, 255, 333, 434, 454
+  recovery, 212
+  story, 218
+bobstones (game), 356
 Bonaparte, Napoleon, 39
-Browning, Robert, 52
+Boxwood
+  introduction to, 264
+bridge, 383--385
+Browning, Robert, 52, 348
 Buckthorn
   bitten by rats, 160, 170
   fight, 26--27
@@ -62,18 +85,42 @@ Bunyan, John, 59
 burnet leaf, 20
 Butterbur (rabbit), first mention, 205
 
-\marginpar{\Huge C}
-Captain Holly
-  details, 183--4
+*C*
+Campbell, Joseph, 293
+Campion /see/ Captain Campion)
+Captain Avens (of Efrafa), 407
+Captain Bugloss (of Efrafa), 310, 401
+Captain Campion (of Efrafa)
+   first mention, 306
+   mission, 505, 509
+Captain Charlock (of Efrafa), 401
+Captain Chervil (of Efrafa), 400
+Captain Groundsel (of Efrafa), 402
+Captain Holly (of Sandleford)
+  cleaning and recovery, 211--215
+  details, 183--184
   fight, 26--27
   first mention, 17
-  found injured, 181--2
+  found injured, 181--182
   introduction to, 26
+  Keehar, 257
+  leader of embassy, 255
+  loyalty, 340
   speech about evil and men, 199
+Captain Mallow (of Efrafa),  401
+Captain Marjoram (of Efrafa),  402
+Captain Moneywort(of Efrafa),  402
+Captain Orchis (of Efrafa), 399
+Captain Sainfoin (of Efrafa), mentioned, 399
+Captain Vervain (of Efrafa), 455
+car see /hrududu/
 carrots
   /flayrah/, as, 112
   tasting (Hazel), 113
-cat
+cats
+  about, 277
+  of Nuthanger Farm, 266, 271, 276, 282--283, 565
+  eating of, Bluebell's joke. 274
   sounds like, 178
 Celandine (rabbit), first mention and death, 204
 Chief Rabbit
@@ -82,53 +129,75 @@ Chief Rabbit
     Captain Holly relied on, 183
     introduction to, 14
     name in Lapine (/Threarah/), 13
-    reluctance to leave Sandleford, 15--6, 194--5, 196--198
+    reluctance to leave Sandleford, 15--6, 194--195, 196--198
     response to myxomatosis in Sandleford, 14
   Watership Down, of (Hazel-rah)
     first mention regarding, 76
+Child Ballad No. 119, 257
+chin-glands, 217
+Clausewitz, 394
+Clover
+  description, 265
+  introduction to, 264
+  ready to be a mother, 345, 530
+/Company Prospectus of the South Sea Bubble/, 339
 Congreve, 211
-counting, rabbit concept of, 5
+counting, rabbit concept of, 5, 491
 /Cosi fan tutte/, 123
+Council (of Efrafa), 304
+corncrake, 374
 cowslip (flower), 6
 Cowslip
-  evasive/pretending not
-   to hear, 114--5, 120,
-   147, 149--150
+  evasive/pretending not to hear, 114--115, 120, 147, 149--150
   first mention of, 82
   introduced himself, 86
   laughter, 106
   meeting Captain Holly, 208
-  rejection of stories,
-   133--4
-  Warren, description of,
-   95--96, 117, 195
+  rejection of stories, 133--134
+  Warren, description of, 95--96, 117, 195
 Cottington's Clump, 68
-creation, rabbit myth, 34--8
+creation, rabbit myth, 34--38
+Crixia, 404
+/Crusader Castles/, 547
 crow
-  attack, 55--6
+  attack, 55--56
   `Not-hawk', 53
 
 *D*
+/Dame Hickory/, 493
 Dandelion
   fight, 27
   introduction to, 17
   speed, 30, 162
   stories, /see/ stories
 /De Gustibus/, 52
-de la Mare, Walter, first pages
+de la Mare, Walter, first pages, 537
 de Ponte, Lorenzo, 123
 digging /see/ rabbit behaviour
 doe
   admiration (/Nildro-hain/), 105
-  need for, 174
-dog
+  thoughts about, 258
+  mating, 414, 499, 501
+  need for, 174, 244--245
+  dog
   in wood, 47
-  Sandleford Owsla opinion of, 41--2
+  Sandleford Owsla opinion of, 41--42
+dog
+   of Nuthanger Farm, 262, 267, 283, 285, 562--565
 dog's mercury, 18
 Dostoevsky, 197
+dragonfly, 383
+duck, flying, 233
 
 *E*
 Earl of Chesterfield, the, 105
+Efrafa
+   accent, 500
+   described and organisation, 304, 325, 329, 331, 397, 407--409, 414, 435, 503--504, 538, 547--548
+   introduced as warren on other side of iron road and river, 251, 269
+   marks, 303
+   punishments, 308
+   plan for, 253, 325, 330--333, 424--430, 434, 451, 452--453
 El-ahrairah
   boasting, 35
   exclamation, as, 92
@@ -138,142 +207,224 @@ El-ahrairah
   stories, /see/ stories
   wives, 35
 /embleer/ (stinking, smell of fox), defined, 46
+/elil/ (enemies)
+  defined, 5
+  discussed, 214. 535
 Enbourne (river)
   crossing, 51--2
-  described, 40, 44--5
+  described, 40, 44--45
   plan to cross, 42, 45
-/elil/ (enemies), defined, 5
+/Euthyphro/, 527
 exclamations /see/ sayings, rabbit
 
 *F*
+farm /see/ Nuthanger Farm
 farmer, shooting, 60-1
+Fedden, Robin, 547
 fight
-  Captain Holly escaping Sandleford (Bluebell, Captain Holly, Cowslip, Pimpernel, rabbits from Cowslips' warren), 208--9 
+  Captain Groundsel and Blackavar, 549 
+  Captain Holly escaping Sandleford (Bluebell, Captain Holly, Cowslip, Pimpernel, rabbits from Cowslips' warren), 208--9
+  cats (Bigwig, Dandelion), 276
   crow (Bigwig), 56
-  rats (Bigwig, Buckthorn, Silver), 160--1
+  escape from Efrafa (Bigwig, Bartsia, Blackavar, guard), 457--458
+  rats (Bigwig, Buckthorn, Silver), 160--161
   Sandleford, departing (Captain Holly, Bigwig, Buckthorn, Dandelion), 26--27
+  Woundwort, Bigwig, others, 574--576
+Fiorin (rabbit), 396
+fish, 334
 Fiver
-   dream about water, 11--2
-   fear and flight, 136--7
-   Fiver-rah!, 167
-   introduction to, 5
-   name in Lapine (/Hrairoo/), 5
-   requirements for Watership Down, 45
-   visions and premonitions, 7--8, 12, 16, 69, 90, 99, 116--8, 134--8, 151--4, 161, 198
+  dream about water, 11--12
+  fear and flight, 136--137
+  Fiver-rah!, 167
+  introduction to, 5
+  name in Lapine (/Hrairoo/), 5
+  requirements for Watership Down, 45
+  visions and premonitions, 7--8, 12, 16, 69, 90, 99, 116--118, 134--138, 151--154, 161, 198, 272, 294--296, 322, 325, 327, 432, 442, 554--555, 569, 572
 /flayrah/ (appetizing food)
-   defined, 112
-   first mentioned, 109
+  defined, 112
+  first mentioned, 109
 force, use of, 138
 /Four Postures of Death/, 132
-fox, 100
+fox, 100, 366--370 (described), 439--440, 499 (fox country), 502--503
 Frith (God, also the sun)
-  bestowing El-ahrairah
-  `Prince with a Thousand Enemies', 35
-  blessing El-ahrairah's bottom, 37--8
+  bargain, 253
+  bestowing El-ahrairah `Prince with a Thousand Enemies', 35
+  blessing El-ahrairah's bottom, 37--38
+  faith in, 211, 314, 316
   introduction to, 34
-  poem (Silverweed), 135--6
-  presents to the animals, 35--8
+    poem (Silverweed), 135--136
+  presents to the animals, 35--38
+  promise to El-ahrairah, 38, 211 
   warning El-ahrairah, 35
-/fu Inl\eacute/ (after moonrise)
-  defined, 20
-  first mention, 19
+
+*G*
+General Woundwort /see/ Woundwort
+Greame, Kenneth, 377
+Gulls, Black-headed, about, 241
 
 *H*
 Hamlet, 21
 Hardy, Thomas, 169
+Harris. Joel Chandler, 438
+Harva, Uno, 293
 Hawkbit
   introduction to, 23
   wants to return to Sandleford, 66--67
-  inspecting holes, 167--8
+  inspecting holes, 167--168
+Haystack
+  introduction to, 264
 Hazel
   dream, 109, 139--140
   introduction to, 4
-  leadership, 41, 47, 71--72, 76, 96, 161, 194
-Hazel-rah, first mentions, 75--6
+  leadership, 41, 47, 71--72, 76, 96, 161, 194, 240, 246, 260--261, 263, 270, 284, 340 (summary), 343, 346, 373, 375, 481, 487, 494, 498, 501, 506, 530, 535, 545, 552--553, 556, 560
+  shot and in pain, 289, 298, 319
+  spirit of mischief, 258
+Hazel-rah, first mentions, 75--76
 hedgehog
   name in Lapine (/yona/), 64
   Yona (story), 125, 130
+/Henry V/, 327
 /Hlao/ (any small concavity in the grass where moisture may collect)
   defined (name of Pipkin in Lapine), 22
 /Hlao-roo/, diminutive form of Pipkin's name, first mentioned, 108
 /hlessi/, rabbits living in the open without a hole, wanderer, scratcher, vagabond (pl: /hlessil/)
   defined, 169
-  used, 207
+  used, 207, 322, 496
 high, lonely place with dry soil (Watership Down), 45
 `Hoi, Hoi u embleer Hrair, M' saigon ul\eacute hraka vair' (`Hoi, Hoi, the stinking Thousand, We meet them even when we stop to pass our droppings', Owsla lampoon)
-   defined, 56
-   used again, 179
+  defined, 56
+  used again, 179
 holes on Watership Down, 168--170
 Holly (rabbit), /see/ Captain Holly
 /homba/ (fox)
   /see also/ fox
   first mention, 100
-Honeycombe hall /see/ Watership Down
+Honeycomb hall /see/ Watership Down
 /hrair/ (a lot)
   defined, 5
-  used, 193
+  used, 193, 254
 /Hrairoo/ Little Thousand (name of Fiver in Lapine), defined, 5
 /hraka/ (droppings)
-  defined (Owlsa lampoon), 56
-  passing, 113, 171--2, 199
-/hrududu/ (motor vehicle), defined, 55
+  burying (Efrafa), 408
+  defined (Owsla lampoon), 56
+  passing, 113, 171--172, 199, 212, 450. 455
+/hrududu/ (motor vehicle)
+   defined, 55
+   used, 286, 494
+/Hurt Hawks/, 233
+hutch, opening, 278
+Hyzenthlay
+   encountered, 418
+   first mention, 306
+   visions and premonitions, 424--425
 
 *I*
-Inl\eacute (moon), mention, 205
+Inl\eacute (moon, also otherworld), mention, 205, 325
+iron road /see/ railway
+
+*J*
+Jeffers, Robinson, 233
+Johnsom, Dr, 407
+Jourdan, General, 367
+/Julius Caesar/, 452, 556
 
 *L*
 Labernum (Poison-tree, name of rabbit in Cowslip's Warren) /see/ Shape of Laburnum
-Lapine, 190
+Lapine, 190, 449
   /also see/ individual terms 
 lark, announcing morning, 42
+/Lark Rise to Candleford/, 577
 laughter, unknown to most rabbits, 106
-/lingua franca/ of hedgerow and woodland, 190
+Laurel
+  introduction to, 264
+language and /lingua franca/ of hedgerow and woodland, 190
 /Le Morte d'Arthur/, 71
 /lendri/ (badger), first mention, 40
 /Letters to the Sun/, 105
+Light, 215--216
+litters, 530
 Lockley, R.M., 28, 77, 211
 /Love for Love/, 211
 
 *K*
 Kelfazin, marshes /see/ stories
-kestrel, 175--6, 189--191
+Kehaar, introduction to, 234
+  /also see/ Gulls
+  Big Water (Peeg Vater), 243, 249, 334--335, 387, 390, 485, 495--496
+  correcting Holly, 257
+  doe reconniaissance plan, 245, 257, 485
+  doe reconniaissance agreement, 247
+  eating fish, 334
+  Efrafan suspicion of, 440--441, 448
+  fouling nest, 250
+  flight, 248
+  quarrel with kestrel, 258
+  stones (shot-gun pellets), 321
+  `Piss off!', 239
+  talking difficulties, 253
+  kestrel, 175--6, 189--191, 217, 258, 341
 Keyes, Sidney, 132
-Kingcup (rabbit), first mentioned (missing, called by Strawberry), 103--4
+Kingcup (rabbit), first mentioned (missing, called by Strawberry), 103--104
 Kingsclere, 176
 
 *M*
 Malory, 71
+de la Mare, Walter, preface, 316, 493
+map, Bigwigs's Flight to the Test, 464
 men
-  destruction of Sandlesford warren, 207--9
+  destruction of Sandlesford warren, 207--209
+  at Nuthanger Farm, 286
   horse, on, 176
-  smell, 109, 119, 147
+  farming the land, 341, 496
+  sign, 10
+  smell, 109, 119, 147, 262, 269, 486
   with gun, 100, 207
 magpie, 156
+mangels, 268
 martins, 44
+/Me\eacutemoires Militaires, 367
+mole, mentioned, 215
+Moneywort (Efrafan rabbit), 446
+moonlight (/see also fu Inl\eacute/), 215--217
+moorhen, 380
 mouse
-  rescue and plan, 190--3, 196
-movement, rabbit, 31--2
+  rescue and plan, 190--193, 196, 213--214, 217, 527--528, 543
+movement, rabbit, 31--32
+/Musk Hall Song/, 431
 myths /see also/ stories
   belief in, 133, 211
   Black Rabbit of Inl\eacute, 180, 210
   creation, 34--38
-  El-ahrairah, Shape (Cowslip's Warren), 102--3, 105
-myxomatosis, in Sandleford, 14
+  El-ahrairah, Shape (Cowslip's Warren), 102--103, 105
+myxomatosis
+  in Efrafa, 304
+  in Sandleford, 14
+  in story, 361--362
 
 *N*
+/Napolean/, 537
+Near Hind Mark
+   Bigwig joining, 406
+   first mention, 394
+Nelthilta (doe)
+   arrest and aftermath, 454--456
+   introduction to, 413
 Newtown Common, 65
-/ni-Frith/ (noon)
-  defined, 12
-  used, 46, 82, 200, 208
+nightingale song, 275
 Nightshade (rabbit), first mention, 200
 /Nildro-Hain/ (Song of the Blackbird, name of doe in Cowslip's Warren)
   admired, 105
   introduced, doe of Strawberry, 100
+  remembered, 244
 noise, 170--171, 189
 Nose-in-the-Air (rabbit), first mention, 205
 notice board of development of Sandleford, 10, 17
+Nuthanger Farm
+    description, 261--262
+    does, introduced, 250, 264
 
 *O*
+/On War/, 394
 outskirter (rank-and-file ordinary rabbit), defined, 4
 owl, 73
   call, 65--66, 141
@@ -281,140 +432,237 @@ owl, 73
   defined, 6--7
   lampoon, 56
   story, Rabscuttle, 125
+  Sandleford survivors /see/ Bigwig, Captain Holly, Silver
   teaching,
     /hrududil/, 64
     snare, 145--6
-    
+/Owslafa/ (of Efrafa), 308, 479
+
 *P*
-poetry (Cowslip's Warren), 134--6
+Peeg Vater /see/ Kehaar
+peewit, 548
+poetry (Cowslip's Warren), 134--136
+Polo, Marco, 381
+Piozzi, Signor, 299
 Pimpernel (rabbit)
   death, 209
   first mention, 204
 Pine-needles (rabbit), first mention, 205
 Pipkin
+  confused, 322
   crossing Enbourne, 49--50, 58
+  doe mission plan, 259--260
   injury, 32, 40, 46
+  insect catching, 246
   introduction to, 22
   name in Lapine (/Hlao/), 22
   screaming, 54
 `Piss off!', 239
+Plato, 527
+/Prospice/, 348
+/Proverbs of Uncle Remus/, 438
+Portway and surroundings, 342
 Prince with a Thousand Enemies
   called by Prince Rainbow, 126
   Frith bestows El-ahrairah, 38
 Prince Rainbow /see/ stories
+Psalm 59, 510
 
 *R*
-rabbit behaviour
+rabbit and animal behaviour
   ability to withstand disaster, 211
-  digging, 81--82, 147--8, 172--5, 177, 187--9
-  carrying food, 114--5, 173
-  cleaning wounds, 58, 72
-  conventions and formalities, 98--9
+  absorbtion of rabbits by doe, 254
+  breeding, 313
+  delight (and testing), 328
+  digging and scrapes, 81--82, 147--148, 172--175, 177, 187--189, 499--501, 510--511, 530, 547--554, 558--559
+  carrying food, 114--115, 173
+  cleaning wounds, 58, 72, 213
+  cooperation with other animals, 213--215
+  conventions and formalities, 98--99
   counting, rabbit concept of, 5
   dancing (Cowslip's Warren), 94
-  disgust, 64
+  disgust, 64, 250
+  droppings /see/ hraka
+  dying
+     energies directed to, 417
+     dying, not underground, 569
+  eating young, 531
   evacuating warren, 198
-  fear and flight (/see also tharn/), 136--7
-  feeding, 6, 171
+  excretion, 250
+  fear and flight (/see also tharn/), 136--137
+  feeding, 6, 171, 502
+  fertility, 300
+  fighting over doe, 345
   fools, teaching about, 90
   force, use of, 138, 141 (discussed)
   formal gestures (usual lack of), 94
+  fox encounters, 367
+  hearing, 377
   laughter, unknown to most rabbits, 106
   melancholy, unknown to most rabbits, 132
-  movement, 31--3, 164
+  mischief, 339
+  movement, 31--33, 164
+  overcrowding, 253
+  reconnaissance, 246
   senses, underground, 96
   screaming, 5
   sleeping places, 170
   smelling, 88
-  sniffing during greeting, 83--4, 94
-  stamping, 82, 109--110
+  sniffing during greeting, 83--84, 94
+  stamping, 82, 109--110, 532
+  stars, recognition, 275
+  stories, 212
+  strength, 211
+  success, 280
   swimming, 42
   unknown, response to, 29
-  time, rabbit concept of, 21, 59
+  testing, 328
+  thunder, 432
+  time, rabbit concept of, 21, 59, 241 (owl-time)
+  without experience of wild life, 396
   woodland, in, 28
 rabbit feet, 58
-rabbit sayings
+rabbit language and sayings
+  A rabbit's sneeze on the morning breeze..., 501
+  as dry as horse-hair on barbed wire, 531
+  Before a duck can dive, 335
   Blue-tit's chatter, 186
+  By Frith and the Black Rabbit, 451
   By the King's Lettuce!, 141
+  /Come where the grass is greener.../, 333
+  Does might grow wings and fly, 447
+  Embleer Frith, 461
   Fits like a bee in a foxglove, 154
   For El-ahrairah to cry, 151
   Frith above!, 58
-  Frith and Inl\eacute, 50
+  [O] Frith and Inl\eacute, 50, 370
   Frith forbid!, 155
+  Frith help you, 492
+  [The Lord] Frith himself will be fighting for us, 572
   Frith in a fog!, 72
   Frith in a pond!, 196
-  Frith knows what, 172
-  /Frithrah!/ (Lord God!), 19
+  Frith [only] knows..., 452, 533
+  Frith knows what [besides], 172, 538
+  Frith on a bridge!, 415
+  Frith up a tree!, 335
+    /Frithrah!/ r(Lord God!), 19
+  Frith sees you!, 466     
+  /fu Inl\eacute/ (after moonrise)
+     defined, 20
+     mentioned, 19, 346, 421, 492, 529
+  [O] Great Frith!, 331, 502
   Great golden Frith, 199
   Hills or Inl\eacute, 150
   hraka one end, jokes the other, 209
   If you were a horse the ceiling would fall down, 110
   In the warren, more stories than passages, 121
+  long-grass rumours, 529
+  /marli tharn/, (stupified doe), 433
+  May Frith blast you..., 466
   My heart has joined the Thousand, for my friend stopped running today, 149
   /O embleer Frith!/ (Fiver's impiety, O stinking God!), 151
-  O Frith, 166
-  O Frith on the hills!, 166--7
-  /Silfray hraka, u embleer rah/ (Enjoy eating shit, stenchmaster), 582
+  /O fly away, great bird so white, and don't come back until tonight/, 449
+  O [great] Frith, 166, 502
+  O Frith on the hills!, 166--167
+  /ni-Frith/ (noon)
+     defined, 12
+     used, 46, 82, 200, 208, 242, 302, 342, 421, 503, 542, 546, 554, 556
+  One cloud feels lonely, 233
+  Our children's children will hear a good story, 479
+  /pfeffa-rah/ (King of cats), 343
+  pressing his chin glands, 502
+  rabbit underground, rabbit safe and sound, 499
+  /Secrets go faster than moles underground/, 447
+  /Silfray hraka, u embleer rah/ (Dine well on shit, stenchmaster), 582
   Till acorns grow on thistles, 195
-rat attack, 160--1
-river /see/ Enbourne
-road, crossing, 62--3
+railway, 251, 313
+Ragwort (of Efrafa), 550
+rat
+   attack, 160--161
+   spotting, 261
+Renault, Mary, 268
+river Enbourne /see/ Enbourne
+river Test, 251, 469--473, 477--478 , 480
+road, crossing, 62--63
+Robin Hood (Child Ballad No. 119), 257
+rope, 391--393
 /-roo/, little (name suffix), defined, 5
 
 *S*
 sainfoin, 162--3
+sandpipers, 442
 Sandleford
-  development of, 10
+  design and development, 10, 571
   destruction (Captain Holly's recount), 199--206
   first mention of, 7
   myxomatosis in, 14
   plan to leave, 19
-`Sayn lay narn, marli?' (`Is grounsel nice, mother?', muttered by Pipkin in sleep), 109
+ /Sayn lay narn, marli?/ (`Is grounsel nice, mother?', muttered by Pipkin in sleep), 109
 sayings /see/ rabbit sayings
 Scabius (rabbit), first mention and death, 202
-Shakespeare, 21
-Shape of Laburnum, 102--3, 105, 133
+Shakespeare, 21, 327, 452, 558
+Shape of Laburnum, 102--103, 105, 133
 /silf/ (outside), first mention of, 140
 /silflay/ (go above ground to feed), first mention of, 106
 /Silfray hraka, u embleer rah/ (Enjoy eating shit, stenchmaster), 582
 Silver, introduction to, 25
-Silverweed (rabbit poet in Cowslip's Warren), 134--6
+Silverweed (rabbit poet in Cowslip's Warren), 134--136, 322
 snake, 65
-snare, 119, 144--8
+snare, 119, 144--148
+[Old] Snowdrop (of Efrafa), 398, 538
 Speedwell, introduction to, 24
 Starveall (lonely barn), 160
+stoats, 542
 stones /see/ Shape of Laburnum
 stories
   /see also/ myths
-  Dandelion telling, 33, 122, 132
+  bargain (absorbing rabbits), 254
+  Captain Holly's tale, telling, 212
+  Dandelion telling, 33, 122, 132, 562
   El-ahrairah and the pike, 31
-  Kelfazin, marshes, 123
+  help from other animals, mentioned, 215
+  Hawock (phesant)
+    first mentioned, 223
+  Hufsa (spy rabbit)
+    first mentioned, 219
+  Kelfazin, marshes
+    first mentioned, 123
   King Darzin
     first mentioned, 124
+  Loosestrife, 364
+  Noah's Ark, 272
   Prince Rainbow
     first mentioned, 123
+  /The Story of El-ahrairah and the Black Rabbit of Inl\eacute/, 348, 504
   /The Story of the Blessing of El-ahrairah/, 34--38
   /The Story of the King's Lettuce/
     as expression, 141
-    mentioned in Cowslip's Warren, 102--3
+    at Efrafa, 310
+    mentioned in Cowslip's Warren, 102--103
     told, 123--131
-  Rabscuttle, Captain of Owsla
-    first mentioned, 125
-  Yona the hedgehog, 125, 130
+  /The Story of Rowsby Wood and the Fairy Wogdog/, 512, 542
+  /The Story of the Trial of El-ahrairah/, 218--232
+  Rabscuttle, Captain of Owsla, first mentioned, 125
+  /Woundwort Dismayed/ (joke), 512
+  Yona the hedgehog, 125, 130, 223
 Strawberry
    Hazel admires, 110
    introduction to, 100
-   leaves Cowslip's Warren, 155--6
+   leaves Cowslip's Warren, 155--156
+   proud to be part of embassy (not coward), 255
    struggles, 162
-   tells stones (Shape of Laburnum) mystery, 101--3
+   tells stones (Shape of Laburnum) mystery, 101--103
+Stubbs, George (painter of horses), 215
+summer, 341
+swedes, 268
 swearing
+   bloody owls, 387
+   Dam' rabbits, 486
    for Frith's sake, 91
-   /O embleer Frith!/, 151
+   /[O] embleer Frith/, 151, 461
    Piss off!, 239
-   /Silfray hraka, u embleer rah/ (Enjoy eating shit, stenchmaster), 582
-swimming
-  Bigwig, 46--7
-  rabbit ability, 42
+   /Silfray hraka, u embleer rah/ (Dine well on shit, stenchmaster), 582
+swimming, 42, 46--47, 485, 487--488
 
 *T*
 Tennyson, 93
@@ -422,24 +670,33 @@ Tennyson, 93
 /The Anabasis/, 17
 /The Ascent of F.6/, 197
 /The Brothers Karamazov/, 197
+/The Hero with a Thousand Facts/, 293
+/The King Must Die/, 268
 /The Lotus Eaters/, 93
 /The Marriage of Heaven and Hell/, 159
+/The Pilgrim/ 316
 /The Pilgrim's Progress/, 59
 /The Private Life of the Rabbit/, 28, 77
+Thethuthinnang (Efrafan doe), 417
+/The Wind in the Willows/, 377
 /The Witness/, 139
 /The World/, 11
-/tharn/ (paralysis caused by fear and exhaustion)
-  defined, 32
-  further explained, 164--5
-/Thlayli/ (Furhead, name of Bigwig in Lapine), defined, 13
+/tharn/ (paralysis caused by fear and exhaustion), 32, 164--5, 456, 489
+Thistle (of Efrafa), 543
+Thlayli, (Furhead, name of Bigwig in Lapine), defined, 13
+Thrayonlosa (injured doe), 492, 493
 /Threarah/ (Lord Rowan Tree, name of Chief Rabbit of Sandleford in Lapine), defined, 13
   /see also/ Chief Rabbit
+Thompson, Flora, 577
 Thousand, dog member of, 42
+Thrale, Ceceilia, 299
+thunder, 466
 time, rabbit concept of, 21, 59
 Toadflax
   death, 206
   introduction to, 6
   speech about destruction of warren and men, 206
+train /see/ railway
 trees in November, like (Pipkin, Cowslip Warren rabbits), 107
 
 *U*
@@ -448,25 +705,38 @@ unknown, rabbit behaviour is reponse to, 29
 
 *V*
 Vaughan, Henry, 11
+verses spoken by Thethuthinnang, 415
+Vilthuril (doe), 499
 
 *W*
 warren, description of old warren, 88
+water-hawk, 385
+water-rabbit, idea, 392
 Watership Down
   description, 68, 74, 159--160, 166, 171
   Fiver's requirements for, 45, 68, 163
-  Honeycombe hall
-   design and digging, 187--9, 192, 195--6
+  Honeycomb hall
+   design and digging, 187--189, 192, 195--196, 239
+   lonely, 244
    named, 189
    noise, 171
+   rain, 246
 /Who's in the Next Room?/, 169
+white blindness /see/ myxomatosis
+Wide Patrol, 305, 325, 330, 344, 398--400, 497, 499, 509
 Willow (rabbit), first mention, 198
 woods, 28--33
-
+Woundwort
+   described, 308, 537
+   first mentions, 304, 394, 398
+   meeting with Hazel (lame rabbit), 544--546
+   
 *X*
 Xenophon, 17
 
 *Y*
 Yeats, W.B., 34
+yellow-hammer, 529, 543
 /yona/ (hedgehog), 64
 Yona the hedgehog (story), 125, 130
 
@@ -475,17 +745,3 @@ Yona the hedgehog (story), 125, 130
   defined, 180
   used, 181
 #+END_VERSE 
-
-
-
-
-# Butler, Matthew:
-# #+END_VERSE
-# #+BEGIN_HTML
-# <center>
-# <iframe width="640" height="360"
-# src="https://www.youtube.com/embed/elkCXVp_BqU" frameborder="0"
-# allowfullscreen></iframe>
-# </center>
-# #+END_HTML
-# 
